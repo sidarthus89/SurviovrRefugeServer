@@ -1,0 +1,52 @@
+04:01:40 [Party] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=) joinded the party "Tingers Posse" (id=8 ownerUID=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= ownerName=Tinger23)
+04:25:38 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<4979.980469, 191.373856, 3691.406494>) as driver
+04:25:40 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] started vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<4979.980469, 191.373886, 3691.406494>)
+04:35:48 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<2300.246826, 131.843369, 3695.727783>)
+04:36:05 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<2300.246826, 131.843369, 3695.727783>) as driver
+04:36:40 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<2207.639404, 100.933350, 3437.821777>)
+04:37:05 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<2207.639404, 100.933372, 3437.821533>) as driver
+04:40:06 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] stopped vehicle Ada 4x4 (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<2158.742432, 91.532578, 3371.059326>)
+04:40:34 [Party] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=) left the party "Tingers Posse" (id=8 ownerUID=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= ownerName=Tinger23)
+04:41:34 [VehicleDeleted] OffroadHatchback (id=5DB7220BF247FC56C76F6FB5C754CF3D pos=<2158.742676, 91.532578, 3371.059326>)
+04:53:05 [Party] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=) joinded the party "Tingers Posse" (id=8 ownerUID=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= ownerName=Tinger23)
+04:53:59 [VehicleCover] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<2159.128418, 91.545044, 3372.449219>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080003416 pos=<2158.742676, 91.532578, 3371.059326>)!
+04:55:19 [VehicleDeleted] OffroadHatchback (id=FB74C6B96C44A6A35D35D099DAB9235D pos=<2158.742432, 91.532562, 3371.058838>)
+04:58:59 [VehicleCover] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<2159.581055, 91.554588, 3372.494873>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080003416 pos=<2158.742432, 91.532562, 3371.058838>)!
+04:59:05 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<2158.742188, 91.532547, 3371.058350>) as driver
+04:59:12 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] started vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<2158.742188, 91.532547, 3371.058350>)
+05:05:33 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<1278.511841, 150.246307, 6289.551758>)
+05:05:58 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<1278.511841, 150.246292, 6289.551758>) as driver
+05:07:18 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<943.199341, 176.414398, 6685.352051>)
+05:07:36 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<943.187805, 176.414795, 6685.352051>) as driver
+05:08:56 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] stopped vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<1066.503052, 152.200470, 6631.927734>)
+05:09:00 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<1066.503052, 152.200470, 6631.927734>)
+05:10:07 [VehicleDeleted] OffroadHatchback (id=41F5733D7049C171D2F005BBD1DCDE29 pos=<1066.503052, 152.200485, 6631.927734>)
+05:16:06 [VehicleCover] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<1066.759766, 152.106689, 6630.336914>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080003416 pos=<1066.503052, 152.200485, 6631.927734>)!
+05:16:11 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=653E36BBA640AC96530C2B9C96C54E05 pos=<1066.502808, 152.200470, 6631.927246>) as driver
+05:16:16 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] started vehicle Ada 4x4 (id=653E36BBA640AC96530C2B9C96C54E05 pos=<1066.502808, 152.200455, 6631.927246>)
+05:17:23 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=653E36BBA640AC96530C2B9C96C54E05 pos=<798.477661, 188.186829, 7155.450684>)
+05:17:38 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=653E36BBA640AC96530C2B9C96C54E05 pos=<798.477051, 188.186874, 7155.450684>) as driver
+05:18:00 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] stopped vehicle Ada 4x4 (id=653E36BBA640AC96530C2B9C96C54E05 pos=<835.427490, 190.270706, 7272.367188>)
+05:18:05 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=653E36BBA640AC96530C2B9C96C54E05 pos=<835.427368, 190.270721, 7272.367188>)
+05:18:11 [VehicleAttachments] Player EZTarget (uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=) detached Car Radiator (type=CarRadiator) from vehicle Ada 4x4(id=653E36BBA640AC96530C2B9C96C54E05 pos=<835.427490, 190.270706, 7272.367188>)
+05:18:35 [VehicleDeleted] OffroadHatchback (id=653E36BBA640AC96530C2B9C96C54E05 pos=<835.427490, 190.270706, 7272.367188>)
+05:18:47 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=2E4EC9D0AA41C52EA0ACB1B973286CC7 pos=<836.125366, 190.285828, 7275.165527>) as driver
+05:18:50 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] started vehicle Ada 4x4 (id=2E4EC9D0AA41C52EA0ACB1B973286CC7 pos=<836.125366, 190.285843, 7275.165527>)
+05:25:56 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] stopped vehicle Ada 4x4 (id=2E4EC9D0AA41C52EA0ACB1B973286CC7 pos=<1260.430664, 295.075165, 11433.157227>)
+05:26:01 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=2E4EC9D0AA41C52EA0ACB1B973286CC7 pos=<1260.430420, 295.075165, 11433.157227>)
+05:29:23 [VehicleDeleted] OffroadHatchback (id=2E4EC9D0AA41C52EA0ACB1B973286CC7 pos=<1260.430420, 295.075165, 11433.157227>)
+05:41:43 [VehicleCover] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<1258.446289, 295.026917, 11433.510742>) uncovered vehicle "OffroadHatchback" (GlobalID=8000000080000000800000008000343C pos=<1260.430420, 295.075165, 11433.157227>)!
+05:41:48 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=D5452101A24EC6CA176191807E394BD6 pos=<1260.430298, 295.075134, 11433.157227>) as driver
+05:41:52 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] started vehicle Ada 4x4 (id=D5452101A24EC6CA176191807E394BD6 pos=<1260.430542, 295.075134, 11433.157227>)
+05:43:41 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] stopped vehicle Ada 4x4 (id=D5452101A24EC6CA176191807E394BD6 pos=<488.940216, 421.785461, 11043.207031>)
+05:43:46 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=D5452101A24EC6CA176191807E394BD6 pos=<488.940186, 421.785461, 11043.207031>)
+05:45:05 [VehicleDeleted] OffroadHatchback (id=D5452101A24EC6CA176191807E394BD6 pos=<488.940125, 421.785461, 11043.207031>)
+06:18:44 [VehicleCover] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<487.267883, 421.751465, 11042.035156>) uncovered vehicle "OffroadHatchback" (GlobalID=8000000080000000800000008000343C pos=<488.940125, 421.785461, 11043.207031>)!
+06:19:17 [VehicleEnter] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] entered vehicle Ada 4x4 (id=DAD7C8443E44DBBE7B5A3BB37D69278B pos=<488.939697, 421.785492, 11043.207031>) as driver
+06:19:20 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] started vehicle Ada 4x4 (id=DAD7C8443E44DBBE7B5A3BB37D69278B pos=<488.939758, 421.785461, 11043.207031>)
+06:24:10 [VehicleEngine] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] stopped vehicle Ada 4x4 (id=DAD7C8443E44DBBE7B5A3BB37D69278B pos=<2759.915283, 218.342728, 12341.272461>)
+06:24:14 [VehicleLeave] Player EZTarget [uid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=] left vehicle Ada 4x4 (id=DAD7C8443E44DBBE7B5A3BB37D69278B pos=<2759.915283, 218.342682, 12341.272461>)
+06:24:19 [VehicleDeleted] OffroadHatchback (id=DAD7C8443E44DBBE7B5A3BB37D69278B pos=<2759.915283, 218.342682, 12341.272461>)
+06:47:41 [Safezone] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<7212.367188, 251.827560, 6894.739258>) Entered the safezone
+06:49:56 [Safezone] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= pos=<6661.773438, 354.641327, 8462.341797>) Left the safezone
+06:50:30 [Party] Player "EZTarget" (id=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=) left the party "Tingers Posse" (id=8 ownerUID=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU= ownerName=Tinger23)

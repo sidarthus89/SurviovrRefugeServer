@@ -1,0 +1,29 @@
+{
+    "m_Version": 2,
+    "m_TerritoryID": 6,
+    "m_OwnerUID": "JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY=",
+    "m_Vehicles": [
+        {
+            "m_OwnerUIDs": [
+                "JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY="
+            ],
+            "m_ClassName": "OffroadHatchback",
+            "m_Position": [
+                4673.75146484375,
+                281.0519714355469,
+                4700.29150390625
+            ],
+            "m_Orientation": [
+                119.7035140991211,
+                -0.4860992133617401,
+                0.0933040976524353
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147475698
+            ]
+        }
+    ]
+}

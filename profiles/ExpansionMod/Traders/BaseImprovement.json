@@ -1,0 +1,25 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Base Improvement",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Nails",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Gardening",
+        "Locks",
+        "Storage",
+        "StorageKits",
+        "Tents",
+        "Furnishings",
+        "Flags",
+        "Exchange"
+    ],
+    "Items": {
+        "woodencrate": 0
+    }
+}

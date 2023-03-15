@@ -1,0 +1,25 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Ammo & Attachments",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Magazines",
+        "Muzzle_Devices",
+        "Bayonets",
+        "Optics",
+        "WeaponLights",
+        "Buttstocks",
+        "HandrailSystems",
+        "Exchange",
+        "Ammo",
+        "Ammo_Boxes"
+    ],
+    "Items": {}
+}

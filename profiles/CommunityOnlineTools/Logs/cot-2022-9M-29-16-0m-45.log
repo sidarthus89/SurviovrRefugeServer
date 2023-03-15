@@ -1,0 +1,40 @@
+[COT 2022-9M-29 16:35:39] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-29 16:35:39] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-29 16:35:48] 76561198017844134: ESP target=ExpansionWallBase<78dfcec0> action=dismantle part=wood_wallframe
+[COT 2022-9M-29 16:35:51] 76561198017844134: ESP target=ExpansionWallBase<78dfcec0> action=built part=wood_windowframe required_materials=false
+[COT 2022-9M-29 16:36:14] 76561198017844134: ESP target=ExpansionWallBase<7ffdd6f0> action=dismantle part=wood_wallfinished
+[COT 2022-9M-29 16:36:15] 76561198017844134: ESP target=ExpansionWallBase<7ffdd6f0> action=dismantle part=wood_wallframe
+[COT 2022-9M-29 16:36:18] 76561198017844134: ESP target=ExpansionWallBase<7ffdd6f0> action=built part=wood_windowframe required_materials=false
+[COT 2022-9M-29 16:36:21] 76561198017844134: ESP target=ExpansionWallBase<7ffdd6f0> action=built part=wood_windowfinished required_materials=false
+[COT 2022-9M-29 16:38:31] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-29 16:49:2s] 76561198017844134: Entered the Free Camera
+[COT 2022-9M-29 16:49:18] 76561198017844134: Left the Free Camera
+[COT 2022-9M-29 16:49:42] 76561198017844134: Spawned Entity Plank (WoodenPlank<118a73c0>, 10, 100) at <648.088867, 135.066803, 5924.363770>
+[COT 2022-9M-29 16:49:44] 76561198017844134: Spawned Entity Plank (WoodenPlank<118ac440>, 10, 100) at <648.376465, 135.075607, 5924.149902>
+[COT 2022-9M-29 16:49:46] 76561198017844134: Spawned Entity Plank (WoodenPlank<118a9c00>, 10, 100) at <648.951111, 135.083817, 5924.602051>
+[COT 2022-9M-29 16:49:48] 76561198017844134: Spawned Entity Plank (WoodenPlank<118a5590>, 10, 100) at <648.927368, 135.088882, 5924.077148>
+[COT 2022-9M-29 16:49:49] 76561198015557715: Teleported to position <1410.158203, 308.742126, 9259.924805>
+[COT 2022-9M-29 16:49:50] 76561198017844134: Spawned Entity Plank (WoodenPlank<118a7dd0>, 10, 100) at <648.671509, 135.197891, 5923.846191>
+[COT 2022-9M-29 16:49:52] 76561198017844134: Spawned Entity Plank (WoodenPlank<118a87e0>, 10, 100) at <648.380188, 135.081696, 5923.586914>
+[COT 2022-9M-29 16:49:55] 76561198017844134: Spawned Entity Plank (WoodenPlank<118ace50>, 10, 100) at <647.790649, 135.152328, 5923.369629>
+[COT 2022-9M-29 16:51:23] 76561198017844134: Spawned Entity Nails (Nail<1a6d5b00>, 30, 80) at <648.176208, 135.177109, 5925.419434>
+[COT 2022-9M-29 16:51:24] 76561198017844134: Spawned Entity Nails (Nail<1a6d50f0>, 30, 80) at <648.176208, 135.177109, 5925.419434>
+[COT 2022-9M-29 16:51:24] 76561198017844134: Spawned Entity Nails (Nail<1a6d3cd0>, 30, 80) at <648.176208, 135.177109, 5925.419434>
+[COT 2022-9M-29 16:51:25] 76561198017844134: Spawned Entity Nails (Nail<1a6d6f20>, 30, 80) at <648.176208, 135.177109, 5925.419434>
+[COT 2022-9M-29 16:55:47] 76561198017844134: Teleported to position <1398.996948, 305.594360, 9276.175781>
+[COT 2022-9M-29 17:0m:26] 76561198017844134: Spawned Entity CBD Relief Balm (CP_Relief_Balm<7101ccc0>, 24, 20) at <1386.642090, 303.180725, 9282.378906>
+[COT 2022-9M-29 17:2m:12] 76561198017844134: Teleported to position <665.937622, 135.371002, 5937.269043>
+[COT 2022-9M-29 17:5m:6s] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-29 17:5m:11] 76561198017844134: ESP target=ExpansionStairBase<1a632ec0> action=built part=wood_base required_materials=false
+[COT 2022-9M-29 17:5m:12] 76561198017844134: ESP target=ExpansionStairBase<1a632ec0> action=built part=wood_support required_materials=false
+[COT 2022-9M-29 17:5m:16] 76561198017844134: ESP target=ExpansionStairBase<1a632ec0> action=built part=wood_tread required_materials=false
+[COT 2022-9M-29 17:5m:21] 76561198017844134: ESP target=ExpansionStairBase<1a632ec0> action=built part=wood_handrailing required_materials=false
+[COT 2022-9M-29 17:6m:16] 76561198017844134: Spawned Entity Code Lock (ExpansionCodeLock<789114c0>, -1, 100) at <635.343628, 135.018356, 5937.568848>
+[COT 2022-9M-29 17:6m:17] 76561198017844134: Spawned Entity Code Lock (ExpansionCodeLock<7891abb0>, -1, 100) at <635.343628, 135.018356, 5937.568848>
+[COT 2022-9M-29 17:8m:45] 76561198017844134: Spawned Entity Military Locker (Msp_Item<6f924fa0>, -1, 100) at <645.556396, 135.171432, 5924.671875>
+[COT 2022-9M-29 17:8m:49] 76561198017844134: Deleted Entity Msp_MilitaryLocker:023463 at <645.556396, 135.216461, 5924.671875>
+[COT 2022-9M-29 17:8m:52] 76561198017844134: Spawned Entity Locker Kit (Msp_Kit<730e3cb0>, -1, 100) at <645.556396, 135.171432, 5924.671875>
+[COT 2022-9M-29 17:9m:0s] 76561198017844134: Deleted Entity Msp_Locker_Kit:010886 at <645.556396, 135.186554, 5924.671875>
+[COT 2022-9M-29 17:9m:19] 76561198017844134: Spawned Entity Military Locker Kit (Msp_Kit<6c55d750>, -1, 100) at <645.593750, 134.992599, 5925.055664>
+[COT 2022-9M-29 17:10:19] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-29 17:11:16] 76561198017844134: Spawned Entity Double Gun Rack Kit (Msp_Kit<820f9e50>, -1, 100) at <636.090149, 135.004379, 5938.853516>

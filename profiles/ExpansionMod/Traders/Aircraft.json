@@ -1,0 +1,19 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Helicopters",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Helicopters",
+        "Vehicle_Parts",
+        "Batteries",
+        "Exchange"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,29 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Black Market",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Human Skull",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "BM_Ammo",
+        "BM_AmmoBoxes",
+        "BM_AssaultRifles",
+        "Buttstocks:3",
+        "BM_DMRs_BoltActionRifles",
+        "BM_Handguns",
+        "BM_Magazines",
+        "BM_Muzzle_Devices",
+        "BM_Optics",
+        "BM_SMGs_PDWs",
+        "BM_SniperRifles",
+        "Launchers",
+        "Explosives",
+        "Exchange"
+    ],
+    "Items": {}
+}

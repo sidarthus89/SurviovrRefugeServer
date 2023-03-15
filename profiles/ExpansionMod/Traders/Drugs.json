@@ -1,0 +1,28 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Drugs",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Human Skull",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Exchange",
+        "Drugs:2",
+        "DrugProduction"
+    ],
+    "Items": {
+        "CP_CannabisSeedsPackBlue": 2,
+        "CP_CannabisSeedsPackBlackFrost": 2,
+        "CP_Relief_Balm": 1,
+        "CP_CannabisSeedsPackStardawg": 2,
+        "CP_CannabisSeedsPackNomad": 2,
+        "CP_CannabisSeedsPackS1": 2,
+        "CP_CannabisSeedsSkunk": 2,
+        "CP_CannabisSeedsPackKush": 2,
+        "CP_CannabisSeedsPackFuture": 2
+    }
+}

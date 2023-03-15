@@ -1,0 +1,4 @@
+[COT 2022-9M-19 13:36:59] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 13:37:3s] 76561198015557715: ESP index=0 target=Msp_Static_Barrel_Donation:04102 position=<7198.000000, 252.970001, 6977.000000> action=delete
+[COT 2022-9M-19 13:37:3s] 76561198015557715: ESP index=1 target=Msp_Static_TrashCan:04101 position=<7195.399902, 252.990005, 6977.700195> action=delete
+[COT 2022-9M-19 13:37:3s] 76561198015557715: ESP action=delete_all count=2 attempted=2

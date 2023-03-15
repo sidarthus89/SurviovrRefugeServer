@@ -1,0 +1,126 @@
+[COT 2022-9M-21 12:24:9s] 76561198017844134: Teleported [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=] to <6552.958008, 404.390076, 5601.885254>
+[COT 2022-9M-21 12:28:0s] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:28:4s] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:28:5s] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:28:13] 76561198017844134: ESP index=0 target=ExpansionBarbedWire:015845 position=<6547.240723, 396.747772, 5598.080566> action=delete
+[COT 2022-9M-21 12:28:13] 76561198017844134: ESP action=delete_all count=1 attempted=1
+[COT 2022-9M-21 12:29:31] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:32:31] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:32:36] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:32:36] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:33:39] 76561198017844134: Teleported to <6551.404297, 399.775696, 5600.562988> [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=]
+[COT 2022-9M-21 12:33:43] 76561198017844134: Teleported to <6550.429199, 399.775787, 5601.880371> [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=]
+[COT 2022-9M-21 12:33:44] 76561198017844134: Teleported to <6550.376465, 399.775787, 5601.332520> [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=]
+[COT 2022-9M-21 12:33:46] 76561198017844134: Teleported to <6550.874023, 399.775726, 5601.045898> [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=]
+[COT 2022-9M-21 12:35:9s] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:35:19] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:35:20] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:35:31] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:35:38] 76561198017844134: ESP index=0 target=TTSKOBoots:026781 position=<6550.813965, 399.776917, 5598.021973> action=delete
+[COT 2022-9M-21 12:35:38] 76561198017844134: ESP action=delete_all count=1 attempted=1
+[COT 2022-9M-21 12:35:41] 76561198017844134: ESP index=0 target=CargoPants_Grey:09906 position=<6550.813965, 399.777802, 5598.021973> action=delete
+[COT 2022-9M-21 12:35:41] 76561198017844134: ESP action=delete_all count=1 attempted=1
+[COT 2022-9M-21 12:35:48] 76561198017844134: ESP index=0 target=Hoodie_Green:012976 position=<6550.813965, 399.777802, 5598.021973> action=delete
+[COT 2022-9M-21 12:35:48] 76561198017844134: ESP action=delete_all count=1 attempted=1
+[COT 2022-9M-21 12:36:11] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:36:12] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:36:28] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_wallfinished
+[COT 2022-9M-21 12:36:30] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_wallfinished
+[COT 2022-9M-21 12:36:31] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_wallfinished
+[COT 2022-9M-21 12:36:31] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_wallfinished
+[COT 2022-9M-21 12:36:32] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_wallfinished
+[COT 2022-9M-21 12:36:36] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_base
+[COT 2022-9M-21 12:36:37] 76561198017844134: ESP target=ExpansionWallBase<ea5a81d0> action=repair part=wood_wallframe
+[COT 2022-9M-21 12:36:47] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:37:12] 76561198017844134: Spawned Entity Field Pants (Dark Splinter) (HunterPants_ColorBase<94b60380>, -1, 150) at <6551.004883, 399.775787, 5599.867188>
+[COT 2022-9M-21 12:37:32] 76561198017844134: Spawned Entity Plank (WoodenPlank<8e78f440>, 10, 100) at <6552.148926, 399.775818, 5599.782715>
+[COT 2022-9M-21 12:37:34] 76561198017844134: Spawned Entity Plank (WoodenPlank<8e79e5c0>, 10, 100) at <6552.228027, 399.885040, 5599.713379>
+[COT 2022-9M-21 12:37:36] 76561198017844134: Spawned Entity Plank (WoodenPlank<8e79bd80>, 10, 100) at <6552.489746, 399.994293, 5599.505859>
+[COT 2022-9M-21 12:49:48] 76561198017844134: Teleported [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=] to <6534.029297, 396.271027, 5575.380859>
+[COT 2022-9M-21 12:52:6s] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:52:14] 76561198017844134: ESP target=ExpansionFloorBase<8e5ebf90> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 12:52:16] 76561198017844134: ESP target=ExpansionFloorBase<8e5ebf90> action=built part=wood_hatchframe required_materials=false
+[COT 2022-9M-21 12:52:35] 76561198017844134: Teleported [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=] to <6531.851563, 396.272491, 5576.071289>
+[COT 2022-9M-21 12:52:50] 76561198017844134: ESP target=ExpansionFloorBase<8e5ebf90> action=dismantle part=wood_hatchframe
+[COT 2022-9M-21 12:52:58] 76561198017844134: ESP target=ExpansionFloorBase<8e5ebf90> action=built part=wood_floorframe required_materials=false
+[COT 2022-9M-21 12:53:2s] 76561198017844134: ESP target=ExpansionFloorBase<8e5ebf90> action=built part=wood_floorfinished required_materials=false
+[COT 2022-9M-21 12:53:13] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:53:27] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:53:32] 76561198017844134: ESP target=ExpansionFloorBase<97563060> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 12:53:35] 76561198017844134: ESP target=ExpansionFloorBase<97563060> action=built part=wood_floorframe required_materials=false
+[COT 2022-9M-21 12:53:42] 76561198017844134: ESP target=ExpansionFloorBase<97563060> action=built part=wood_floorfinished required_materials=false
+[COT 2022-9M-21 12:53:55] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:53:55] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:54:3s] 76561198017844134: ESP target=ExpansionFloorBase<8a65e200> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 12:54:16] 76561198017844134: ESP target=ExpansionFloorBase<8a65e200> action=built part=wood_floorframe required_materials=false
+[COT 2022-9M-21 12:54:18] 76561198017844134: ESP target=ExpansionFloorBase<8a65e200> action=built part=wood_floorfinished required_materials=false
+[COT 2022-9M-21 12:54:25] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:54:25] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:54:34] 76561198017844134: ESP target=ExpansionFloorBase<97100f90> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 12:54:39] 76561198017844134: ESP target=ExpansionFloorBase<97100f90> action=built part=wood_floorframe required_materials=false
+[COT 2022-9M-21 12:54:41] 76561198017844134: ESP target=ExpansionFloorBase<97100f90> action=built part=wood_floorfinished required_materials=false
+[COT 2022-9M-21 12:54:51] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 12:55:21] 76561198017844134: Spawned Entity Helipad (ExpansionHelipadKit<99fb8360>, -1, 100) at <6535.062500, 395.923462, 5575.853516>
+[COT 2022-9M-21 12:55:43] 76561198017844134: Spawned Entity Helipad (ExpansionHelipadKit<9acc69e0>, -1, 100) at <6527.762207, 396.191833, 5575.957031>
+[COT 2022-9M-21 12:59:15] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 12:59:20] 76561198017844134: ESP target=ExpansionStairBase<9792bac0> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 12:59:21] 76561198017844134: ESP target=ExpansionStairBase<9792bac0> action=built part=wood_support required_materials=false
+[COT 2022-9M-21 12:59:24] 76561198017844134: ESP target=ExpansionStairBase<9792bac0> action=built part=wood_tread required_materials=false
+[COT 2022-9M-21 13:0m:7s] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 13:0m:10] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 13:0m:16] 76561198017844134: ESP target=ExpansionStairBase<9ae2afd0> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 13:0m:17] 76561198017844134: ESP target=ExpansionStairBase<9ae2afd0> action=built part=wood_support required_materials=false
+[COT 2022-9M-21 13:0m:18] 76561198017844134: ESP target=ExpansionStairBase<9ae2afd0> action=built part=wood_tread required_materials=false
+[COT 2022-9M-21 13:0m:38] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 13:1m:24] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 13:1m:30] 76561198017844134: ESP target=ExpansionStairBase<97929080> action=built part=wood_base required_materials=false
+[COT 2022-9M-21 13:1m:32] 76561198017844134: ESP target=ExpansionStairBase<97929080> action=built part=wood_support required_materials=false
+[COT 2022-9M-21 13:1m:33] 76561198017844134: ESP target=ExpansionStairBase<97929080> action=built part=wood_tread required_materials=false
+[COT 2022-9M-21 13:2m:2s] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 13:4m:32] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 13:4m:34] 76561198017844134: ESP: Clearing ESP
+[COT 2022-9M-21 13:22:9s] 76561198015557715: Entered the Free Camera
+[COT 2022-9M-21 13:22:20] 76561198015557715: Left the Free Camera
+[COT 2022-9M-21 13:22:46] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-21 13:24:1s] 76561198015557715: Spawned Entity Keys (ExpansionCarKey<9778fa30>, -1, 100) at <3241.259033, 202.965744, 13062.516602>
+[COT 2022-9M-21 13:24:10] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-21 13:24:11] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-21 13:24:16] 76561198015557715: ESP target=ExpansionCarKey:019421 position=<3242.033203, 202.813919, 13061.978516> action=delete
+[COT 2022-9M-21 13:24:37] 76561198015557715: Spawned Entity #STR_EXPANSION_ADMIN #STR_EXPANSION_CAR_KEYS (ExpansionCarAdminKey<ef7814d0>, -1, 100) at <3245.018555, 202.846909, 13064.165039>
+[COT 2022-9M-21 13:25:42] 76561198015557715: Spawned Entity Land Rover Defender Front-Left Door (Expansion_Landrover_Driverdoor<9cdeac80>, -1, 500) at <3241.732666, 202.987686, 13060.485352>
+[COT 2022-9M-21 13:25:44] 76561198015557715: Spawned Entity Land Rover Defender Front-Right Door (Expansion_Landrover_Codriverdoor<9cdee8e0>, -1, 500) at <3241.732666, 202.987686, 13060.485352>
+[COT 2022-9M-21 13:25:45] 76561198015557715: Spawned Entity Land Rover Defender Back-Left Door (Expansion_Landrover_Left<9cdef2f0>, -1, 500) at <3241.732666, 202.987686, 13060.485352>
+[COT 2022-9M-21 13:25:47] 76561198015557715: Spawned Entity Land Rover Defender Back- Right Door (Expansion_Landrover_Right<9cde8e50>, -1, 500) at <3241.732666, 202.987686, 13060.485352>
+[COT 2022-9M-21 13:25:48] 76561198015557715: Spawned Entity Land Rover Defender Trunk (Expansion_Landrover_Trunk<9cdf2f50>, -1, 500) at <3241.732666, 202.987686, 13060.485352>
+[COT 2022-9M-21 13:25:50] 76561198015557715: Spawned Entity Land Rover Defender Hood (Expansion_Landrover_Hood<9cdf2540>, -1, 500) at <3241.732666, 202.987686, 13060.485352>
+[COT 2022-9M-21 13:26:36] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-21 13:26:41] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-21 13:26:47] 76561198015557715: ESP index=0 target=Expansion_Landrover_Trunk:07285 position=<3245.914063, 202.825531, 13062.859375> action=delete
+[COT 2022-9M-21 13:26:47] 76561198015557715: ESP index=1 target=Expansion_Landrover_Codriverdoor:07281 position=<3245.136230, 202.894714, 13064.376953> action=delete
+[COT 2022-9M-21 13:26:47] 76561198015557715: ESP index=2 target=Expansion_Landrover_Right:07272 position=<3245.809326, 202.903641, 13063.598633> action=delete
+[COT 2022-9M-21 13:26:47] 76561198015557715: ESP action=delete_all count=3 attempted=3
+[COT 2022-9M-21 13:26:56] 76561198015557715: ESP index=0 target=Expansion_Landrover_Hood:07278 position=<3241.095215, 203.446671, 13063.902344> action=delete
+[COT 2022-9M-21 13:26:56] 76561198015557715: ESP index=1 target=Expansion_Landrover_Driverdoor:07280 position=<3240.724609, 203.113174, 13064.511719> action=delete
+[COT 2022-9M-21 13:26:56] 76561198015557715: ESP index=2 target=Expansion_Landrover_Left:07273 position=<3240.254395, 203.042084, 13063.795898> action=delete
+[COT 2022-9M-21 13:26:56] 76561198015557715: ESP action=delete_all count=3 attempted=3
+[COT 2022-9M-21 13:28:6s] 76561198015557715: Entered the Free Camera
+[COT 2022-9M-21 13:28:16] 76561198015557715: Left the Free Camera
+[COT 2022-9M-21 15:34:26] 76561198017844134: Spawned Entity Barrel (Barrel_Yellow<fd22b8d0>, 0, 1300) at <1494.792847, 281.076355, 11854.028320>
+[COT 2022-9M-21 15:34:35] 76561198017844134: Set GodMode To true [guid=uQpbWOSqDfBH1eKt-Cxb6rOdSfp5cDaw7YoLwsAmzNU=]
+[COT 2022-9M-21 15:34:35] 76561198017844134: Set GodMode To true [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=]
+[COT 2022-9M-21 15:34:48] 76561198017844134: Teleported [guid=hSqM7sZq4fS7_rPNSjlbvMePJ3fmimmG_KguBGRCRtg=] to <1494.788818, 281.917450, 11853.973633>
+[COT 2022-9M-21 15:36:29] 76561198017844134: Spawned Entity Mh-6 Little Bird (ExpansionMh6<25bd1b30>, -1, 5000) at <1500.863892, 280.810974, 11860.106445>
+[COT 2022-9M-21 15:36:33] 76561198017844134: Spawned Entity Mh-6 Front-Left Door (Expansion_Mh6_Door_1_1<218d6c0>, -1, 500) at <1498.913330, 280.908752, 11859.807617>
+[COT 2022-9M-21 15:36:36] 76561198017844134: Spawned Entity Mh-6 Front-Right Door (Expansion_Mh6_Door_1_2<219be30>, -1, 500) at <1498.546875, 281.136932, 11860.418945>
+[COT 2022-9M-21 15:36:37] 76561198017844134: Spawned Entity Mh-6 Back-Left Door (Expansion_Mh6_Door_2_1<21981d0>, -1, 500) at <1498.463013, 281.419098, 11860.840820>
+[COT 2022-9M-21 15:36:39] 76561198017844134: Spawned Entity Mh-6 Back-Right Door (Expansion_Mh6_Door_2_2<219aa10>, -1, 500) at <1498.406982, 281.691284, 11861.217773>
+[COT 2022-9M-21 15:36:48] 76561198017844134: Spawned Entity Helicopter Battery (ExpansionHelicopterBattery<219a000>, 50, 100) at <1498.580444, 280.931213, 11860.163086>
+[COT 2022-9M-21 15:36:55] 76561198017844134: Spawned Entity Hydraulic Hoses (ItemBase<21963a0>, -1, 80) at <1498.579834, 280.931305, 11860.165039>
+[COT 2022-9M-21 15:37:3s] 76561198017844134: Spawned Entity Igniter Plug (GlowPlug<ef27c4d0>, -1, 20) at <1498.302368, 282.129028, 11861.837891>
+[COT 2022-9M-21 15:37:37] 76561198017844134: ESP: Viewing ESP
+[COT 2022-9M-21 15:38:21] 76561198017844134: Spawned Entity Jerrycan (CanisterGasoline<b0cde040>, 20000, 300) at <1498.459961, 280.942352, 11860.514648>
+[COT 2022-9M-21 15:38:23] 76561198017844134: Spawned Entity Jerrycan (CanisterGasoline<b0ce1fa0>, 20000, 300) at <1498.203613, 280.957520, 11860.626953>
+[COT 2022-9M-21 15:38:25] 76561198017844134: Spawned Entity Jerrycan (CanisterGasoline<b0ce2a30>, 20000, 300) at <1497.973267, 280.970184, 11860.655273>
+[COT 2022-9M-21 15:38:27] 76561198017844134: Spawned Entity Jerrycan (CanisterGasoline<b1494ca0>, 20000, 300) at <1497.687866, 280.986481, 11860.738281>
+[COT 2022-9M-21 15:41:54] 76561198017844134: Spawned Entity Keys (ExpansionCarKey<ea985520>, -1, 100) at <1496.900391, 281.028961, 11860.166016>
+[COT 2022-9M-21 15:45:0s] 76561198017844134: ESP: Clearing ESP

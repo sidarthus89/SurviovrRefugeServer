@@ -1,0 +1,31 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Weapons",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "BladeWeapons",
+        "BoltActionRifles",
+        "Crossbows",
+        "DMRs_SemiAutoRifles",
+        "Exchange",
+        "Handguns",
+        "Melee_Weapons",
+        "Shotguns",
+        "SMGs_PDWs",
+        "Sniper_Rifles",
+        "Buttstocks:3",
+        "WeaponLights:3",
+        "Muzzle_Devices:3",
+        "Optics:3",
+        "HandrailSystems:3"
+    ],
+    "Items": {}
+}

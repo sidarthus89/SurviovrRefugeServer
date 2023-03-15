@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Mil_Barracks_Round" pos="3694.521240 403.149139 5961.528809" rpy="-0.000000 -0.000000 -110.008614" a="-159.991"/>
+	<group name="bldr_misc_coil" pos="3683.900146 403.106171 5967.224609" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_tent_boxwooden" pos="3684.779053 404.666931 5966.986816" rpy="-0.000000 -0.000000 -114.132217" a="-155.868"/>
+	<group name="Land_Ladder_Half" pos="3682.448730 407.889557 5979.934082" rpy="-0.000000 -0.000000 -18.000000" a="108"/>
+	<group name="bldr_canister_dz" pos="3682.423828 404.519653 5966.748047" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_boardspack2" pos="3684.317383 402.476624 5964.657715" rpy="-0.000000 -0.000000 72.000015" a="18"/>
+	<group name="Land_Mil_Fortified_Nest_Small" pos="3723.739990 401.579834 6025.859863" rpy="0.000000 4.999998 135.000000" a="-45"/>
+	<group name="Land_Mil_Fortified_Nest_Small" pos="3737.221436 402.910370 6009.973633" rpy="-0.000000 0.000000 -39.151146" a="129.151"/>
+	<group name="bldr_misc_hedgehog_concrete" pos="3734.219971 402.909485 6001.629883" rpy="0.000000 0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_hedgehog_concrete" pos="3738.643066 403.010284 6003.003906" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_hedgehog_concrete" pos="3718.769287 401.347198 6020.580566" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_hedgehog_concrete" pos="3720.574219 401.263855 6023.812988" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_hedgehog_concrete" pos="3717.328857 400.987396 6024.725098" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="bldr_misc_hedgehog_concrete" pos="3735.050049 402.855499 6004.359863" rpy="0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_Mil_ControlTower" pos="3700.302246 409.522583 6016.496582" rpy="-0.000000 0.000000 -134.999832" a="-135"/>
+	<group name="Land_Mil_Tent_Big4" pos="3689.971924 403.198486 6006.471680" rpy="-0.000000 0.000000 -125.999924" a="-144"/>
+	<group name="Land_Mil_Barracks_Round" pos="3728.967041 403.106537 5981.269531" rpy="-0.000000 0.000000 42.481491" a="47.5185"/>
+	<group name="Land_Mil_Tower_Small" pos="3728.728027 405.678253 5988.992676" rpy="-0.000000 -0.000000 45.000023" a="45"/>
+	<group name="Land_Mil_Tower_Small" pos="3689.118652 405.556854 5952.979980" rpy="-0.000000 0.000000 -134.999863" a="-135"/>
+	<group name="bldr_Power_WireTel_50_Main" pos="3697.709717 420.448639 5985.028809" rpy="0.000000 -22.000000 -83.123596" a="173.124"/>
+	<group name="ExpansionWreckHmmwv" pos="3704.829102 402.905884 5985.361328" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Mil_Fortified_Nest_Small" pos="3685.033203 411.713837 5992.438477" rpy="-0.000000 0.000000 -107.999939" a="-162"/>
+	<group name="Land_Medical_Tent_Shower" pos="3718.329102 403.509003 6003.607422" rpy="5.259720 -0.444231 -40.138184" a="130.138"/>
+	<group name="bldr_roadblock_bags_endr" pos="3716.117920 402.979279 6006.431152" rpy="-4.702039 -2.374866 108.000015" a="-18"/>
+	<group name="bldr_roadblock_bags_endl" pos="3720.626465 403.114990 6000.831543" rpy="-0.540849 3.893926 153.000305" a="-63.0003"/>
+	<group name="bldr_roadblock_cncblocks_short" pos="3717.918213 402.323059 6008.416504" rpy="3.330037 1.689285 -26.999973" a="117"/>
+	<group name="bldr_roadblock_cncblocks_short" pos="3722.684326 402.608795 6001.976563" rpy="2.572043 -2.989907 -59.713314" a="149.713"/>
+	<group name="bldr_misc_bagfence_3m" pos="3690.757568 407.339294 5980.859863" rpy="-0.000000 -0.000000 71.999947" a="18.0001"/>
+	<group name="bldr_misc_bagfence_3m" pos="3691.759766 407.324921 5977.906250" rpy="-0.000000 -0.000000 71.999947" a="18.0001"/>
+	<group name="bldr_Dead_pile1" pos="3686.031738 402.944000 5987.501953" rpy="-0.000000 -0.000000 -47.655842" a="137.656"/>
+	<group name="Land_Mil_Tent_Big1_3" pos="3726.454102 402.007202 5969.202148" rpy="0.652318 2.193374 106.550491" a="-16.5505"/>
+	<group name="Land_Mil_Tower_Small" pos="3723.345459 405.555847 5952.541992" rpy="-0.000000 -0.000000 114.419136" a="-24.4191"/>
+	<group name="Land_Mil_Tower_Small" pos="3667.252686 405.678284 5991.776367" rpy="-0.000000 -0.000000 -80.397957" a="170.398"/>
+	<group name="Land_Mil_Tent_Big1_2" pos="3723.514893 402.043213 5960.316406" rpy="0.136061 -0.069326 117.000000" a="-27"/>
+</map>

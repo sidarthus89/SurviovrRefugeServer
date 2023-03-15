@@ -1,0 +1,16 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Exchange",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Exchange"
+    ],
+    "Items": {}
+}

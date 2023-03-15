@@ -1,0 +1,158 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FACE GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "gasmask",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gp5gasmask",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "PMK_5A_Gas_Mask",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "balaclavamask_beige",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "balaclavamask_blue",
+                "balaclavamask_pink",
+                "balaclavamask_white",
+                "balaclavamask_blackskull",
+                "balaclavamask_black",
+                "balaclavamask_green"
+            ]
+        },
+        {
+            "ClassName": "balaclava3holes_beige",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "balaclava3holes_blue",
+                "balaclava3holes_black",
+                "balaclava3holes_green"
+            ]
+        },
+		{
+			"ClassName": "militarygear_balaclava3_atacs",
+			"MaxPriceThreshold": 100,
+			"MinPriceThreshold": 100,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_balaclava3_partizanm",
+			"militarygear_balaclava3_duckhunter",
+			"militarygear_balaclava3_multicam",
+			"militarygear_balaclava3_splinter",
+			"militarygear_balaclava3_splinter_dark",
+			"militarygear_balaclava3_tiger",
+			"militarygear_balaclava3_woodland",
+			"militarygear_balaclava3_flt",
+			"militarygear_balaclava3_dpm",
+			"militarygear_balaclava3_mpat",
+			"militarygear_balaclava3_skol",
+			"militarygear_balaclava3_cadpat",
+			"militarygear_balaclava3_tropic",
+			"militarygear_balaclava3_yeger",
+			"militarygear_balaclava3_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_balaclava3skull_atacs",
+			"MaxPriceThreshold": 100,
+			"MinPriceThreshold": 100,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_balaclava3skull_partizanm",
+			"militarygear_balaclava3skull_duckhunter",
+			"militarygear_balaclava3skull_multicam",
+			"militarygear_balaclava3skull_splinter",
+			"militarygear_balaclava3skull_splinter_dark",
+			"militarygear_balaclava3skull_tiger",
+			"militarygear_balaclava3skull_woodland",
+			"militarygear_balaclava3skull_flt",
+			"militarygear_balaclava3skull_dpm",
+			"militarygear_balaclava3skull_mpat",
+			"militarygear_balaclava3skull_skol",
+			"militarygear_balaclava3skull_cadpat",
+			"militarygear_balaclava3skull_tropic",
+			"militarygear_balaclava3skull_yeger",
+			"militarygear_balaclava3skull_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_gasmask_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_gasmask_brown",
+			"militarygear_gasmask_olive"
+			]
+		},
+		{
+			"ClassName": "militarygear_gp5gasmask_black",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_gp5gasmask_brown",
+			"militarygear_gp5gasmask_olive"
+			]
+		}	
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "m_Version": 10,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EVENT",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Questionmark",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Event",
+        "Exchange"
+    ],
+    "Items": {}
+}

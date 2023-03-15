@@ -1,0 +1,19 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Hunting Trader",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Rabbit",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Fishing",
+        "Exchange",
+        "Meat",
+        "Pelts"
+    ],
+    "Items": {}
+}

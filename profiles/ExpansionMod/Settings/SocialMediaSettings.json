@@ -1,0 +1,16 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "Discord Server",
+            "m_Text": "Click, the Discord button below to join our Discord Server."
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://discord.gg/J4c5HKWT3c"
+        }
+    ]
+}

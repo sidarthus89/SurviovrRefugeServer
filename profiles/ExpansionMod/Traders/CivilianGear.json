@@ -1,0 +1,26 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Civilian Gear",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Persona",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Civilian_Accesories",
+        "Civilian_Bags",
+        "Civilian_ChestGear",
+        "Civilian_EyeGear",
+        "Civilian_FaceGear",
+        "Civilian_FootGear",
+        "Civilian_Gloves",
+        "Civilian_HeadGear",
+        "Civilian_LegGear",
+        "Civilian_Vests",
+        "Exchange"
+    ],
+    "Items": {}
+}

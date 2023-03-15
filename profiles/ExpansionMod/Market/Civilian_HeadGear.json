@@ -1,0 +1,404 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HEAD GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "baseballcap_cmmg_pink",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "baseballcap_pink",
+                "baseballcap_blue",
+                "baseballcap_beige",
+                "baseballcap_red",
+                "baseballcap_cmmg_black",
+                "baseballcap_black",
+                "baseballcap_olive",
+                "baseballcap_camo",
+				"Msp_BaseballCap_Beige",
+            	"Msp_BaseballCap_Black",
+                "Msp_BaseballCap_Blue",
+                "Msp_BaseballCap_Camo",
+                "Msp_BaseballCap_Olive",
+                "Msp_BaseballCap_Pink",
+                "Msp_BaseballCap_Red",
+                "Msp_BaseballCap_CMMG_Pink",
+                "Msp_BaseballCap_CMMG_Black"
+            ]
+        },
+        {
+            "ClassName": "prisonercap",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "policecap",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "flatcap_blue",
+            "MaxPriceThreshold": 64,
+            "MinPriceThreshold": 32,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "flatcap_red",
+                "flatcap_brown",
+                "flatcap_grey",
+                "flatcap_browncheck",
+                "flatcap_greycheck",
+                "flatcap_black",
+                "flatcap_blackcheck",
+				"MVS_FlatCap_Snow",
+                "MVS_FlatCap_Multicam",
+                "MVS_FlatCap_Multicam_Tropic",
+                "MVS_FlatCap_Multicam_Black",
+				"MVS_FlatCap"
+            ]
+        },
+        {
+            "ClassName": "zmijovkacap_blue",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 36,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "zmijovkacap_brown",
+                "zmijovkacap_red",
+                "zmijovkacap_black",
+                "zmijovkacap_green"
+            ]
+        },
+        {
+            "ClassName": "radarcap_blue",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "radarcap_brown",
+                "radarcap_red",
+                "radarcap_black",
+                "radarcap_green",
+				"WinterGear_RadarCap"
+            ]
+        },
+		{
+            "ClassName": "medicalscrubshat_blue",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "medicalscrubshat_white",
+                "medicalscrubshat_green"
+            ]
+        },
+        {
+            "ClassName": "cowboyhat_brown",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "cowboyhat_black",
+                "cowboyhat_darkbrown",
+                "cowboyhat_green",
+                "expansioncowboyhatgator",
+                "expansioncowboyhatsnake",
+                "expansioncowboyhatrattlesnake"
+            ]
+        },
+        {
+            "ClassName": "beaniehat_pink",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "beaniehat_beige",
+                "beaniehat_blue",
+                "beaniehat_brown",
+                "beaniehat_grey",
+                "beaniehat_red",
+                "beaniehat_black",
+                "beaniehat_green",
+				"WinterGear_Beanie",
+				"militarygear_beanie_partizanm",
+				"militarygear_beanie_duckhunter",
+				"militarygear_beanie_multicam",
+				"militarygear_beanie_splinter",
+				"militarygear_beanie_splinter_dark",
+				"militarygear_beanie_tiger",
+				"militarygear_beanie_woodland",
+				"militarygear_beanie_flt",
+				"militarygear_beanie_dpm",
+				"militarygear_beanie_mpat",
+				"militarygear_beanie_skol",
+				"militarygear_beanie_cadpat",
+				"militarygear_beanie_tropic",
+				"militarygear_beanie_yeger",
+				"militarygear_beanie_partizan",
+				"militarygear_beanie_atacs"
+            ]
+        },
+        {
+            "ClassName": "ushanka_black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ushanka_blue",
+                "ushanka_green",
+				"WinterGear_Ushanka"
+            ]
+        },
+		{
+            "ClassName": "constructionhelmet_blue",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "constructionhelmet_orange",
+                "constructionhelmet_red",
+                "constructionhelmet_white",
+                "constructionhelmet_yellow",
+                "constructionhelmet_lime"
+            ]
+        },
+        {
+            "ClassName": "skatehelmet_blue",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "skatehelmet_gray",
+                "skatehelmet_red",
+                "skatehelmet_black",
+                "skatehelmet_green"
+            ]
+        },
+        {
+            "ClassName": "hockeyhelmet_blue",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "hockeyhelmet_red",
+                "hockeyhelmet_white",
+                "hockeyhelmet_black"
+            ]
+        },
+        {
+            "ClassName": "dirtbikehelmet_mouthguard",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "dirtbikehelmet_visor",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "dirtbikehelmet_chernarus",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "dirtbikehelmet_mouthguard",
+                "dirtbikehelmet_visor"
+            ],
+            "Variants": [
+                "dirtbikehelmet_police",
+                "dirtbikehelmet_red",
+                "dirtbikehelmet_green",
+                "dirtbikehelmet_blue",
+                "dirtbikehelmet_black",
+                "dirtbikehelmet_khaki"
+            ]
+        },
+        {
+            "ClassName": "motohelmet_lime",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "motohelmet_blue",
+                "motohelmet_red",
+                "motohelmet_yellow",
+                "motohelmet_white",
+                "motohelmet_grey",
+                "motohelmet_black",
+                "motohelmet_green",
+                "darkmotohelmet_lime",
+                "darkmotohelmet_blue",
+                "darkmotohelmet_red",
+                "darkmotohelmet_white",
+                "darkmotohelmet_grey",
+                "darkmotohelmet_black",
+                "darkmotohelmet_green"
+            ]
+        },
+        {
+            "ClassName": "firefightershelmet_red",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "firefightershelmet_white",
+                "firefightershelmet_yellow"
+            ]
+        },
+        {
+			"ClassName": "Slouch_Hat_Brown",
+			"MaxPriceThreshold": 250,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "Poncho_Green",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Poncho_Red",
+				"Poncho_Black",
+				"Poncho_BlackAndWhite",
+				"Poncho_BlackAndWhite",
+				"Poncho_BlackAndWhite2",
+				"Poncho_Red_Checkered",
+				"Poncho_Blue_Checkered",
+				"Poncho_Yellow_Checkered",
+				"Poncho_White",
+				"Poncho_Brown"
+			]
+        },	
+        {
+			"ClassName": "Msp_BoxingHelmet_Red",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"Msp_BoxingHelmet_Blue"
+            	]
+        },
+        {
+			"ClassName": "Msp_Slouchie_Beige",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            	"Msp_Slouchie_Black",
+                "Msp_Slouchie_Blue",
+                "Msp_Slouchie_Red"
+            	]
+        },
+        {
+            "ClassName": "MVS_Pakol_brown",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

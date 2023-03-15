@@ -1,0 +1,189 @@
+{
+    "m_Version": 12,
+    "DisplayName": "LEG GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "ttskopants",
+            "MaxPriceThreshold": 55,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bdupants",
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "usmcpants_desert",
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "usmcpants_woodland"
+            ]
+        },
+        {
+            "ClassName": "gorkapants_summer",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkapants_autumn",
+                "gorkapants_flat",
+                "gorkapants_pautrev"
+            ]
+        },
+        {
+            "ClassName": "MVS_GorkaPants",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_GorkaPants_Snow",
+                "MVS_GorkaPants_Multicam",
+                "MVS_GorkaPants_Multicam_Tropic",
+                "MVS_GorkaPants_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Pants_BDU",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Pants_BDU_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_CombatPants_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_CombatPants_Tan",
+                "MVS_CombatPants_Black",
+                "MVS_CombatPants_Snow",
+                "MVS_CombatPants_ERDL",
+                "MVS_CombatPants_Multicam",
+                "MVS_CombatPants_Multicam_Tropic",
+                "MVS_CombatPants_Multicam_Black"
+            ]
+        },
+		{
+			"ClassName": "militarygear_fieldpants_atacs",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_fieldpants_partizanm",
+			"militarygear_fieldpants_duckhunter",
+			"militarygear_fieldpants_multicam",
+			"militarygear_fieldpants_splinter",
+			"militarygear_fieldpants_splinter_dark",
+			"militarygear_fieldpants_tiger",
+			"militarygear_fieldpants_woodland",
+			"militarygear_fieldpants_flt",
+			"militarygear_fieldpants_dpm",
+			"militarygear_fieldpants_mpat",
+			"militarygear_fieldpants_skol",
+			"militarygear_fieldpants_cadpat",
+			"militarygear_fieldpants_tropic",
+			"militarygear_fieldpants_yeger",
+			"militarygear_fieldpants_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_patrolpants_atacs",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_patrolpants_partizanm",
+			"militarygear_patrolpants_duckhunter",
+			"militarygear_patrolpants_multicam",
+			"militarygear_patrolpants_splinter",
+			"militarygear_patrolpants_splinter_dark",
+			"militarygear_patrolpants_tiger",
+			"militarygear_patrolpants_woodland",
+			"militarygear_patrolpants_flt",
+			"militarygear_patrolpants_dpm",
+			"militarygear_patrolpants_mpat",
+			"militarygear_patrolpants_skol",
+			"militarygear_patrolpants_cadpat",
+			"militarygear_patrolpants_tropic",
+			"militarygear_patrolpants_yeger",
+			"militarygear_patrolpants_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_tacticalpants_atacs",
+			"MaxPriceThreshold": 400,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_tacticalpants_partizanm",
+			"militarygear_tacticalpants_duckhunter",
+			"militarygear_tacticalpants_multicam",
+			"militarygear_tacticalpants_splinter",
+			"militarygear_tacticalpants_splinter_dark",
+			"militarygear_tacticalpants_tiger",
+			"militarygear_tacticalpants_woodland",
+			"militarygear_tacticalpants_flt",
+			"militarygear_tacticalpants_dpm",
+			"militarygear_tacticalpants_mpat",
+			"militarygear_tacticalpants_skol",
+			"militarygear_tacticalpants_cadpat",
+			"militarygear_tacticalpants_tropic",
+			"militarygear_tacticalpants_yeger",
+			"militarygear_tacticalpants_partizan"
+			]
+		}
+    ]
+}

@@ -1,0 +1,68 @@
+[COT 2022-9M-19 0h:29:40] 76561198015557715: Spawned Entity AAC Honey Badger (TTC_AACHoney_Base<94b84c80>, -1, 400) at <7206.701660, 253.998520, 6985.001953>
+[COT 2022-9M-19 0h:36:42] 76561198015557715: Spawned Entity Silver Bar (ExpansionSilverBar<aeb2ed50>, 1, 100) at <7209.460449, 253.026001, 6983.693848>
+[COT 2022-9M-19 0h:37:55] 76561198015557715: Entered the Free Camera
+[COT 2022-9M-19 0h:40:13] 76561198015557715: Left the Free Camera
+[COT 2022-9M-19 0h:53:57] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 0h:54:2s] 76561198015557715: ESP target=bldr_fire_barrel<bad00040> action=position value=<7196.229980, 253.000000, 6969.379883>
+[COT 2022-9M-19 1h:12:35] 76561198015557715: Spawned Entity Honey Badger Suppressor (TTC_Honey_Suppressor_BASE<b71d2bb0>, -1, 12) at <7201.813477, 252.979996, 6978.981445>
+[COT 2022-9M-19 1h:19:57] 76561198015557715: Spawned Entity Universal Suppressor Black (ItemSuppressor<155b7f00>, -1, 12) at <7215.795898, 252.980850, 6974.773926>
+[COT 2022-9M-19 1h:20:21] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-19 1h:20:26] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 1h:21:42] 76561198015557715: Spawned Entity Lab Coat (LabCoat<af2a6900>, -1, 80) at <7184.923828, 253.048233, 6971.927734>
+[COT 2022-9M-19 1h:26:58] 76561198015557715: Spawned Entity Hunter Vest (HuntingVest<f29c1dc0>, -1, 130) at <7205.688965, 252.992493, 6968.746094>
+[COT 2022-9M-19 1h:27:18] 76561198015557715: Spawned Entity Cargo Pants (CargoPants_Beige<f29bb420>, -1, 100) at <7205.688965, 252.992493, 6968.746094>
+[COT 2022-9M-19 1h:28:0s] 76561198015557715: Spawned Entity Field Jacket (FLT) (M65Jacket_ColorBase<b5007f0>, -1, 150) at <7205.688965, 252.992493, 6968.746094>
+[COT 2022-9M-19 1h:28:13] 76561198015557715: Spawned Entity Slouch Hat (Slouch_Hat_ColorBase<b4fe840>, -1, 70) at <7205.688965, 252.992493, 6968.746094>
+[COT 2022-9M-19 1h:40:38] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-19 1h:41:55] 76561198015557715: Spawned Entity Donation Barrel (Msp_Static_Barrel_Donation<1b9084a0>, 0, 100) at <7202.932617, 252.979996, 6982.641602>
+[COT 2022-9M-19 1h:42:56] 76561198015557715: Spawned Entity Trash Can (Msp_TrashCan<1245a520>, -1, 100) at <7191.297363, 252.979996, 6966.093750>
+[COT 2022-9M-19 1h:43:10] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 1h:43:19] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=orientation value=<140.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:43:23] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=orientation value=<150.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:43:26] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=orientation value=<90.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:43:31] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=orientation value=<95.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:43:34] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=orientation value=<98.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:43:37] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=orientation value=<100.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:43:45] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.910156, 252.970993, 6982.640137>
+[COT 2022-9M-19 1h:43:50] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.850098, 252.970993, 6982.640137>
+[COT 2022-9M-19 1h:43:54] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.600098, 252.970993, 6982.640137>
+[COT 2022-9M-19 1h:43:59] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.600098, 252.970993, 6982.620117>
+[COT 2022-9M-19 1h:44:3s] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.600098, 252.970993, 6982.799805>
+[COT 2022-9M-19 1h:44:6s] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.600098, 252.970993, 6982.899902>
+[COT 2022-9M-19 1h:44:12] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.600098, 252.970993, 6983.100098>
+[COT 2022-9M-19 1h:44:17] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<1b9084a0> action=position value=<7202.600098, 252.970993, 6983.200195>
+[COT 2022-9M-19 1h:44:50] 76561198015557715: ESP target=Msp_TrashCan:015795 position=<7191.297363, 252.990845, 6966.093750> action=delete
+[COT 2022-9M-19 1h:48:3s] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-19 1h:48:3s] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 1h:48:7s] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-19 1h:48:52] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 1h:49:2s] 76561198015557715: ESP target=Msp_Static_Barrel_Donation:012993 position=<7202.600098, 252.970993, 6983.200195> action=delete
+[COT 2022-9M-19 1h:49:6s] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-19 1h:49:15] 76561198015557715: Spawned Entity Donation Barrel (Msp_Static_Barrel_Donation<10d288f0>, 0, 100) at <7202.765625, 252.980011, 6982.435059>
+[COT 2022-9M-19 1h:49:21] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 1h:49:27] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=orientation value=<100.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:49:32] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 252.899994, 6982.439941>
+[COT 2022-9M-19 1h:49:36] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 253.100006, 6982.439941>
+[COT 2022-9M-19 1h:49:54] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 252.910004, 6982.439941>
+[COT 2022-9M-19 1h:49:57] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 252.899994, 6982.439941>
+[COT 2022-9M-19 1h:50:3s] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 253.100006, 6982.439941>
+[COT 2022-9M-19 1h:50:13] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 252.949997, 6982.439941>
+[COT 2022-9M-19 1h:50:17] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.770020, 252.979996, 6982.439941>
+[COT 2022-9M-19 1h:50:31] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.700195, 252.979996, 6982.439941>
+[COT 2022-9M-19 1h:50:35] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.600098, 252.979996, 6982.439941>
+[COT 2022-9M-19 1h:50:39] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.500000, 252.979996, 6982.439941>
+[COT 2022-9M-19 1h:50:45] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.500000, 252.979996, 6981.799805>
+[COT 2022-9M-19 1h:50:50] 76561198015557715: ESP target=Msp_Static_Barrel_Donation<10d288f0> action=position value=<7202.500000, 252.979996, 6983.100098>
+[COT 2022-9M-19 1h:51:4s] 76561198015557715: Spawned Entity Trash Can (Msp_Static_TrashCan<ff403ed0>, -1, 100) at <7191.358398, 252.979996, 6965.814941>
+[COT 2022-9M-19 1h:51:13] 76561198015557715: ESP: Clearing ESP
+[COT 2022-9M-19 1h:51:13] 76561198015557715: ESP: Viewing ESP
+[COT 2022-9M-19 1h:51:21] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=orientation value=<-120.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:51:26] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=orientation value=<80.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:51:29] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=orientation value=<85.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:51:34] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=orientation value=<70.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:51:36] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=orientation value=<60.000000, 0.000000, -0.000000>
+[COT 2022-9M-19 1h:51:44] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=position value=<7191.399902, 252.990997, 6965.810059>
+[COT 2022-9M-19 1h:51:51] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=position value=<7191.399902, 252.990997, 6965.899902>
+[COT 2022-9M-19 1h:51:58] 76561198015557715: ESP target=Msp_Static_TrashCan<ff403ed0> action=position value=<7191.399902, 252.990997, 6966.100098>
+[COT 2022-9M-19 1h:55:41] 76561198015557715: ESP target=Msp_Static_Barrel_Donation:023823 position=<7202.500000, 252.979996, 6983.100098> action=delete
+[COT 2022-9M-19 1h:55:46] 76561198015557715: ESP target=Msp_Static_TrashCan:07088 position=<7191.399902, 252.990997, 6966.100098> action=delete

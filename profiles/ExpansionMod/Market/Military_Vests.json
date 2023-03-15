@@ -1,0 +1,202 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CHESTRIGS, ARMOR, & VESTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "ukassvest_black",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 90,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ukassvest_khaki",
+                "ukassvest_olive",
+                "ukassvest_camo"
+            ]
+        },
+        {
+            "ClassName": "smershvest",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "highcapacityvest_black",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "highcapacityvest_olive"
+            ]
+        },
+        {
+            "ClassName": "platecarriervest",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"PlateCarrierVest_Black",
+				"PlateCarrierVest_Camo",
+				"PlateCarrierVest_Green"			
+				]
+        },
+        {
+            "ClassName": "MVS_ChestRig_OD",
+            "MaxPriceThreshold": 2350,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_ChestRig_Tan",
+                "MVS_ChestRig_Black",
+                "MVS_ChestRig_Snow",
+                "MVS_ChestRig_ERDL",
+                "MVS_ChestRig_Multicam",
+                "MVS_ChestRig_Multicam_Tropic",
+                "MVS_ChestRig_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Combat_Vest_OD",
+            "MaxPriceThreshold": 2050,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Combat_Vest_Tan",
+                "MVS_Combat_Vest_Black",
+                "MVS_Combat_Vest_Snow",
+                "MVS_Combat_Vest_ERDL",
+                "MVS_Combat_Vest_Multicam",
+                "MVS_Combat_Vest_Multicam_Tropic",
+                "MVS_Combat_Vest_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Combat_Vest_Heavy_OD",
+            "MaxPriceThreshold": 7050,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Combat_Vest_Heavy_Tan",
+                "MVS_Combat_Vest_Heavy_Black",
+                "MVS_Combat_Vest_Heavy_Snow",
+                "MVS_Combat_Vest_Heavy_ERDL",
+                "MVS_Combat_Vest_Heavy_Multicam",
+                "MVS_Combat_Vest_Heavy_Multicam_Tropic",
+                "MVS_Combat_Vest_Heavy_Multicam_Black"
+            ]
+        },
+		{
+			"ClassName": "militarygear_assaultvest_atacs",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_assaultvest_partizanm",
+			"militarygear_assaultvest_duckhunter",
+			"militarygear_assaultvest_multicam",
+			"militarygear_assaultvest_splinter",
+			"militarygear_assaultvest_splinter_dark",
+			"militarygear_assaultvest_tiger",
+			"militarygear_assaultvest_woodland",
+			"militarygear_assaultvest_flt",
+			"militarygear_assaultvest_dpm",
+			"militarygear_assaultvest_mpat",
+			"militarygear_assaultvest_skol",
+			"militarygear_assaultvest_cadpat",
+			"militarygear_assaultvest_tropic",
+			"militarygear_assaultvest_yeger",
+			"militarygear_assaultvest_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_highcapvest_atacs",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 800,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_highcapvest_partizanm",
+			"militarygear_highcapvest_duckhunter",
+			"militarygear_highcapvest_multicam",
+			"militarygear_highcapvest_splinter",
+			"militarygear_highcapvest_splinter_dark",
+			"militarygear_highcapvest_tiger",
+			"militarygear_highcapvest_woodland",
+			"militarygear_highcapvest_flt",
+			"militarygear_highcapvest_dpm",
+			"militarygear_highcapvest_mpat",
+			"militarygear_highcapvest_skol",
+			"militarygear_highcapvest_cadpat",
+			"militarygear_highcapvest_tropic",
+			"militarygear_highcapvest_yeger",
+			"militarygear_highcapvest_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_platecarrier_atacs",
+			"MaxPriceThreshold": 1200,
+			"MinPriceThreshold": 1200,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"militarygear_platecarrier_partizanm",
+			"militarygear_platecarrier_duckhunter",
+			"militarygear_platecarrier_multicam",
+			"militarygear_platecarrier_splinter",
+			"militarygear_platecarrier_splinter_dark",
+			"militarygear_platecarrier_tiger",
+			"militarygear_platecarrier_woodland",
+			"militarygear_platecarrier_flt",
+			"militarygear_platecarrier_dpm",
+			"militarygear_platecarrier_mpat",
+			"militarygear_platecarrier_skol",
+			"militarygear_platecarrier_cadpat",
+			"militarygear_platecarrier_tropic",
+			"militarygear_platecarrier_yeger",
+			"militarygear_platecarrier_partizan"
+			]
+		}
+    ]
+}

@@ -1,0 +1,2174 @@
+{
+    "m_Version": 4,
+    "CanBuildAnywhere": 1,
+    "AllowBuildingWithoutATerritory": 0,
+    "DeployableOutsideATerritory": [
+        "ExpansionSatchel",
+        "Fireplace",
+        "TerritoryFlag",
+        "TerritoryFlagKit",
+        "TerritoryFlagKitPlacing",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
+        "HydraulicJack",
+        "Plastic_Explosive",
+        "ImprovisedExplosive",
+        "ClaymoreMine"
+    ],
+    "DeployableInsideAEnemyTerritory": [
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
+        "Plastic_Explosive",
+        "ImprovisedExplosive",
+        "ClaymoreMine"
+    ],
+    "CanCraftVanillaBasebuilding": 0,
+    "CanCraftExpansionBasebuilding": 1,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 0,
+    "DismantleInsideTerritory": 0,
+    "DismantleAnywhere": 0,
+    "CodelockActionsAnywhere": 1,
+    "CodeLockLength": 4,
+    "DoDamageWhenEnterWrongCodeLock": 1,
+    "DamageWhenEnterWrongCodeLock": 10.0,
+    "RememberCode": 1,
+    "CanCraftTerritoryFlagKit": 1,
+    "SimpleTerritory": 1,
+    "AutomaticFlagOnCreation": 1,
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [
+        {
+            "Name": "Outpost 42",
+            "Center": [
+                7196.5,
+                252.99000549316407,
+                6976.5
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "Can't build here. Too close to Outpost 42."
+        },
+        {
+            "Name": "BlackMarket",
+            "Center": [
+                1386.06005859375,
+                303.2080078125,
+                9282.759765625
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "Can't build here. Too close to Black Market"
+        },
+        {
+            "Name": "Heli Trader",
+            "Center": [
+                8218.2001953125,
+                470.55999755859377,
+                9042.0
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "Can't build here. Too close to Heli Trader"
+        },
+        {
+            "Name": "Green Mountain",
+            "Center": [
+                3701.330078125,
+                402.0,
+                5980.68017578125
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "VMC",
+            "Center": [
+                4527.81005859375,
+                316.0,
+                8295.8203125
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Chernoye",
+            "Center": [
+                13578.099609375,
+                57.51060104370117,
+                12134.5
+            ],
+            "Radius": 500.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Staroye Military",
+            "Center": [
+                10441.7001953125,
+                283.0,
+                5960.5400390625
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Sosnovy Military",
+            "Center": [
+                2697.60009765625,
+                363.0,
+                6748.9599609375
+            ],
+            "Radius": 500.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Tri Kresta",
+            "Center": [
+                334.9440002441406,
+                295.0,
+                9376.150390625
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Myshkino Military Base",
+            "Center": [
+                1162.2099609375,
+                185.0,
+                7232.58984375
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Stary Sober Military",
+            "Center": [
+                6333.75,
+                300.0,
+                7799.85986328125
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Tikhiyzaliv Military",
+            "Center": [
+                741.1409912109375,
+                6.0,
+                1908.800048828125
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Bashnya Military North",
+            "Center": [
+                3946.0,
+                370.0,
+                12072.0
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Bashnya Military West",
+            "Center": [
+                3504.0,
+                370.0,
+                11611.0
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Bashnya Military East",
+            "Center": [
+                4418.0,
+                370.0,
+                11670.0
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Severograd Stronghold",
+            "Center": [
+                8631.580078125,
+                112.0,
+                13384.0
+            ],
+            "Radius": 500.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Balota Airfield",
+            "Center": [
+                5069.0,
+                9.0,
+                2469.0
+            ],
+            "Radius": 1200.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Biathalon Tunnels",
+            "Center": [
+                801.1500244140625,
+                383.0,
+                11044.400390625
+            ],
+            "Radius": 30.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Chernogorsk Military",
+            "Center": [
+                7244.2998046875,
+                27.0,
+                3033.89990234375
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Cherno Football Camp",
+            "Center": [
+                6192.52978515625,
+                20.261899948120118,
+                2820.64990234375
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Tisy",
+            "Center": [
+                1666.800048828125,
+                451.70001220703127,
+                14084.0
+            ],
+            "Radius": 1400.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Prison Island",
+            "Center": [
+                2662.169921875,
+                12.300000190734864,
+                1239.699951171875
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "ExpansionSatchel",
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "HydraulicJack",
+                "Plastic_Explosive",
+                "ImprovisedExplosive",
+                "ClaymoreMine"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                0.5091059803962708,
+                0.8065279722213745,
+                1486.43994140625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                809.2529907226563,
+                0.8751009702682495,
+                1689.449951171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                1305.93994140625,
+                1.2641500234603882,
+                2289.530029296875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                2137.52001953125,
+                1.2680699825286866,
+                2088.699951171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                2465.1201171875,
+                0.7853559851646423,
+                1788.56005859375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                2705.72998046875,
+                1.1356600522994996,
+                1673.6300048828126
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                2907.25,
+                7.573840141296387,
+                1825.6199951171876
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                3090.429931640625,
+                12.798199653625489,
+                1823.4599609375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                3285.06005859375,
+                7.7009100914001469,
+                1859.75
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                2861.39990234375,
+                1.1134599447250367,
+                1892.300048828125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                3300.080078125,
+                1.808859944343567,
+                1967.1500244140626
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                3592.8798828125,
+                4.188779830932617,
+                2115.35009765625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                3609.510009765625,
+                4.191150188446045,
+                2055.199951171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                3900.1298828125,
+                2.0083799362182619,
+                2175.169921875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                4333.97998046875,
+                1.6622300148010255,
+                2256.5400390625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                4324.83984375,
+                3.0675199031829836,
+                2149.5
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                4414.740234375,
+                1.5200300216674805,
+                2213.219970703125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                4677.58984375,
+                1.0514299869537354,
+                2090.570068359375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                5297.009765625,
+                0.8394590020179749,
+                1898.6099853515626
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                5814.009765625,
+                0.8741940259933472,
+                2006.550048828125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6022.7900390625,
+                1.3843300342559815,
+                1846.1400146484376
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6136.06005859375,
+                0.8572400212287903,
+                1883.97998046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6151.7900390625,
+                0.6951940059661865,
+                2054.7099609375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6336.1298828125,
+                1.4936100244522095,
+                2121.429931640625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6269.419921875,
+                8.580820083618164,
+                2010.7900390625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6317.64013671875,
+                0.8107690215110779,
+                2206.300048828125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6376.58984375,
+                0.9423859715461731,
+                2194.75
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6653.02001953125,
+                5.8614702224731449,
+                2240.199951171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6539.97021484375,
+                5.352550029754639,
+                2159.919921875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6747.580078125,
+                3.0134799480438234,
+                2432.830078125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6847.60009765625,
+                3.1701900959014894,
+                2502.280029296875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6869.6298828125,
+                3.819580078125,
+                2769.31005859375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                6945.7900390625,
+                5.436309814453125,
+                2769.449951171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                7063.47021484375,
+                5.306690216064453,
+                2420.030029296875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                7278.18017578125,
+                2.063570022583008,
+                2575.830078125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                7447.330078125,
+                1.2065099477767945,
+                2444.860107421875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                7640.9501953125,
+                5.816800117492676,
+                2899.25
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                7717.0498046875,
+                5.23429012298584,
+                2624.179931640625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                8010.2900390625,
+                5.592800140380859,
+                2811.89990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                8264.2802734375,
+                0.912880003452301,
+                2356.6298828125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                8239.6201171875,
+                -0.5165280103683472,
+                2218.219970703125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                8558.23046875,
+                0.989861011505127,
+                2299.820068359375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                9103.0595703125,
+                0.6102179884910584,
+                1896.3499755859376
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                9668.5302734375,
+                0.5093770027160645,
+                1679.4100341796876
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                9863.580078125,
+                0.6683589816093445,
+                1760.6800537109376
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                9937.259765625,
+                5.940460205078125,
+                1627.219970703125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                10317.599609375,
+                0.9546700119972229,
+                1564.5899658203126
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                10436.0,
+                1.4046200513839722,
+                1746.989990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                10512.2001953125,
+                0.5272619724273682,
+                1948.030029296875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                10679.599609375,
+                0.4379040002822876,
+                2097.639892578125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                10809.400390625,
+                0.23969100415706635,
+                2173.760009765625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                10938.7001953125,
+                1.76364004611969,
+                2647.280029296875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                11167.599609375,
+                10.815199851989746,
+                2505.0
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                11093.2001953125,
+                1.1106699705123902,
+                2697.64990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                11337.400390625,
+                0.5010169744491577,
+                3223.179931640625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                11694.0,
+                2.412600040435791,
+                3209.89990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                12126.7998046875,
+                2.2426199913024904,
+                3154.469970703125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                12430.599609375,
+                2.0194199085235597,
+                3323.3701171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                12072.400390625,
+                3.0242700576782228,
+                3430.260009765625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                12578.7998046875,
+                0.8180990219116211,
+                3486.919921875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13364.599609375,
+                0.5302630066871643,
+                3794.8701171875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13644.2001953125,
+                1.3111300468444825,
+                3853.02001953125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13728.599609375,
+                6.4994001388549809,
+                3733.550048828125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13747.7998046875,
+                3.0807900428771974,
+                4215.5
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13563.900390625,
+                0.7439540028572083,
+                5036.2099609375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13505.099609375,
+                0.7575939893722534,
+                5872.56005859375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13607.900390625,
+                3.01242995262146,
+                6347.5498046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13322.2998046875,
+                0.8925989866256714,
+                7138.22998046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13120.7998046875,
+                0.48066800832748415,
+                7955.14990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13052.599609375,
+                0.8615549802780151,
+                8430.990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13052.599609375,
+                0.8615549802780151,
+                8430.990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                12949.2001953125,
+                0.8647500276565552,
+                9261.990234375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13103.900390625,
+                0.7122859954833984,
+                9685.4697265625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13077.400390625,
+                1.3672699928283692,
+                9901.650390625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13266.7998046875,
+                2.1654200553894045,
+                9914.7900390625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13224.400390625,
+                1.0851500034332276,
+                10196.7998046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13526.2001953125,
+                0.7353640198707581,
+                10980.5
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14054.0,
+                0.38861700892448428,
+                11165.099609375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14078.0,
+                0.49075600504875185,
+                11435.7998046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                13881.2998046875,
+                0.6163089871406555,
+                11693.2001953125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14207.5,
+                0.9090510010719299,
+                12261.900390625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14378.7001953125,
+                0.9621430039405823,
+                12851.2998046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14262.900390625,
+                0.5423759818077087,
+                13064.2998046875
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14346.7001953125,
+                3.2599000930786135,
+                13171.7001953125
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                14788.2001953125,
+                0.060617800801992419,
+                13216.0
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                15223.0,
+                0.5040000081062317,
+                13576.099609375
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                15336.900390625,
+                0.38600099086761477,
+                13837.900390625
+            ],
+            "Radius": 850.0,
+            "Items": [
+                "Fireplace",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "You are too close to the coast to build."
+        }
+    ],
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 0,
+    "DismantleFlagMode": -1,
+    "FlagMenuMode": 1,
+    "EnableVirtualStorage": 0,
+    "VirtualStorageExcludedContainers": []
+}

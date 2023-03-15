@@ -1,0 +1,270 @@
+{
+    "m_Version": 12,
+    "DisplayName": "CHEST GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "ttskojacket_camo",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bdujacket",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m65jacket_black",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "m65jacket_khaki",
+                "m65jacket_tan",
+                "m65jacket_olive",
+				"WinterGear_M65Jacket",
+				"WinterGear_M65Jacket_camo"
+            ]
+        },
+        {
+            "ClassName": "gorkaejacket_summer",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkaejacket_flat",
+                "gorkaejacket_autumn",
+                "gorkaejacket_pautrev"
+            ]
+        },
+        {
+            "ClassName": "usmcjacket_desert",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "usmcjacket_woodland"
+            ]
+        },
+        {
+            "ClassName": "tacticalshirt_grey",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalshirt_tan",
+                "tacticalshirt_black",
+                "tacticalshirt_olive",
+				"WinterGear_TacticalShirt",
+				"WinterGear_TacticalShirt_camo"
+            ]
+        },
+		{
+			"ClassName": "Military_Sweater",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Military_Sweater_Red",
+				"Military_Sweater_Blue",
+				"Military_Sweater_Green",
+				"Military_Sweater_White",
+				"Military_Sweater_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_GorkaJacket",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_GorkaJacket_Snow",
+                "MVS_GorkaJacket_Multicam",
+                "MVS_GorkaJacket_Multicam_Tropic",
+                "MVS_GorkaJacket_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Shirt_BDU",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Shirt_BDU_Snow",
+                "MVS_Shirt_BDU_Multicam",
+                "MVS_Shirt_BDU_Multicam_Tropic",
+                "MVS_Shirt_BDU_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_CombatShirt_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_CombatShirt_Tan",
+                "MVS_CombatShirt_Black",
+                "MVS_CombatShirt_Snow",
+                "MVS_CombatShirt_ERDL",
+                "MVS_CombatShirt_Multicam",
+                "MVS_CombatShirt_Multicam_Tropic",
+                "MVS_CombatShirt_Multicam_Black"
+            ]
+        },
+		{
+			"ClassName": "militarygear_combatjacket_atacs",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_combatjacket_partizanm",
+			"militarygear_combatjacket_duckhunter",
+			"militarygear_combatjacket_multicam",
+			"militarygear_combatjacket_splinter",
+			"militarygear_combatjacket_splinter_dark",
+			"militarygear_combatjacket_tiger",
+			"militarygear_combatjacket_woodland",
+			"militarygear_combatjacket_flt",
+			"militarygear_combatjacket_dpm",
+			"militarygear_combatjacket_mpat",
+			"militarygear_combatjacket_skol",
+			"militarygear_combatjacket_cadpat",
+			"militarygear_combatjacket_tropic",
+			"militarygear_combatjacket_yeger",
+			"militarygear_combatjacket_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_fieldjacket_atacs",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_fieldjacket_partizanm",
+			"militarygear_fieldjacket_duckhunter",
+			"militarygear_fieldjacket_multicam",
+			"militarygear_fieldjacket_splinter",
+			"militarygear_fieldjacket_splinter_dark",
+			"militarygear_fieldjacket_tiger",
+			"militarygear_fieldjacket_woodland",
+			"militarygear_fieldjacket_flt",
+			"militarygear_fieldjacket_dpm",
+			"militarygear_fieldjacket_mpat",
+			"militarygear_fieldjacket_skol",
+			"militarygear_fieldjacket_cadpat",
+			"militarygear_fieldjacket_tropic",
+			"militarygear_fieldjacket_yeger",
+			"militarygear_fieldjacket_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_patroljacket_atacs",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_patroljacket_partizanm",
+			"militarygear_patroljacket_duckhunter",
+			"militarygear_patroljacket_multicam",
+			"militarygear_patroljacket_splinter",
+			"militarygear_patroljacket_splinter_dark",
+			"militarygear_patroljacket_tiger",
+			"militarygear_patroljacket_woodland",
+			"militarygear_patroljacket_flt",
+			"militarygear_patroljacket_dpm",
+			"militarygear_patroljacket_mpat",
+			"militarygear_patroljacket_skol",
+			"militarygear_patroljacket_cadpat",
+			"militarygear_patroljacket_tropic",
+			"militarygear_patroljacket_yeger",
+			"militarygear_patroljacket_partizan"
+			]
+		},
+		{
+			"ClassName": "militarygear_tacticalshirt_atacs",
+			"MaxPriceThreshold": 400,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_tacticalshirt_partizanm",
+			"militarygear_tacticalshirt_duckhunter",
+			"militarygear_tacticalshirt_multicam",
+			"militarygear_tacticalshirt_splinter",
+			"militarygear_tacticalshirt_splinter_dark",
+			"militarygear_tacticalshirt_tiger",
+			"militarygear_tacticalshirt_woodland",
+			"militarygear_tacticalshirt_flt",
+			"militarygear_tacticalshirt_dpm",
+			"militarygear_tacticalshirt_mpat",
+			"militarygear_tacticalshirt_skol",
+			"militarygear_tacticalshirt_cadpat",
+			"militarygear_tacticalshirt_tropic",
+			"militarygear_tacticalshirt_yeger",
+			"militarygear_tacticalshirt_partizan"
+			]
+		}
+    ]
+}

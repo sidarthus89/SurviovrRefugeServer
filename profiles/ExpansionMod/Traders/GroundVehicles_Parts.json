@@ -1,0 +1,21 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Ground Vehicles & Parts",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Car",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "GroundVehicles",
+        "GroundVehicleBatteries",
+        "GroundVehicleDoorsHoods",
+        "GroundVehicleWheels",
+        "VehicleParts",
+        "Exchange"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,442 @@
+{
+    "m_Version": 3,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "General Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "No Glitching, Exploiting, Loot Cycling, Duping or Hacking "
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "No Combat Logging (You Must wait at least 10 Minutes after interacting/fighting with another player before logging out)"
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "No Meta Gaming(don't call out: player locations[including your own], in game events[like heli crashes], base locations in the global chat)"
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "No Stream Sniping or Stalking"
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "If you suspect someone of cheating, put in a ticket."
+                }
+            ]
+        },
+		{
+            "CategoryName": "Trader Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "Do not steal inside of traders"
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Do not follow people out of traders to kill them."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Do not camp any traders (Yes this includes BM)."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "Safezones/traders are not for keeping your vehicles at. If a vehicle is abandoned at a trader/safezone (ie: no one is on the server, or no one claims it as theirs) it will be removed and no refund will be given.."
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "Trolling other players in traders will be considered as toxic behavior"
+                },
+                {
+                    "RuleParagraph": "1.7.",
+                    "RuleText": "Do not run to a safe zone to escape from PVP."
+                },
+                {
+                    "RuleParagraph": "1.8.",
+                    "RuleText": "Do not loiter / AFK in the safe zone for long periods of time, you will be kicked."
+                },
+                {
+                    "RuleParagraph": "1.9.",
+                    "RuleText": "No stashes, safes or containers inside the safezone, these will be removed"
+                },
+                {
+                    "RuleParagraph": "1.10.",
+                    "RuleText": "Clean up after yourself. Use the donation barrel and garbage can. Items left on the ground for longer than 30 minutes risk being deleted.."
+                },
+                {
+                    "RuleParagraph": "1.11.",
+                    "RuleText": "Do Not Call Out Trader Campers In Side Chat, Report Them in the #deleted-channel channel."
+                }
+            ]
+        },
+		{
+            "CategoryName": "Basebuilding Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "1 flag per group/solo."
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "No floating/physics defying bases."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Territory sizes limited to 40m."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "No building within 850m of Coast, 1km of Large Military, 500m of Small Military (2-3 tents/bldgs) & 1km of Traders"
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "No hoarding helis. Helis should reflect your group size not your ego - If you're in a six man group go look for a Huey or two Little Birds etc."
+                },
+				{
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "Max three vehicles per base"
+                },
+                {
+                    "RuleParagraph": "1.7.",
+                    "RuleText": "Do not build on main roads."
+                },
+                {
+                    "RuleParagraph": "1.8.",
+                    "RuleText": "Do not deploy flags without the intention of building bases around or with them, a solo flag will be deleted if there hasn't been an attempt to build around it."
+                },
+                {
+                    "RuleParagraph": "1.9.",
+                    "RuleText": "Camping a base for an extended period of time (ie: 5 hours a day 5 days a week. Not 30 minutes) will be considered as toxic behavior "
+                },
+                {
+                    "RuleParagraph": "1.10.",
+                    "RuleText": "Raiding on this server is done by using high yield explosives. Finding and using exploits to remove walls by non approved means is considered abusing an exploit and you will be banned."
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "ShowHaBStats": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://www.google.com/",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/J4c5HKWT3c",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Steam",
+            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853579563",
+            "IconName": "Steam",
+            "IconColor": -14006434
+        },
+        {
+            "Name": "GitHub",
+            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
+            "IconName": "GitHub",
+            "IconColor": -16777216
+        },
+        {
+            "Name": "YouTube",
+            "URL": "https://www.youtube.com/channel/UCxjmxHpggsS_vtbtOLrMORw",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "General Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Welcome to the Refuge, Survivor."
+                },
+                {
+                    "DescriptionText": "Go ahead and craft your first bag an do what you can do to survive."
+                },
+                {
+                    "DescriptionText": "This book will be filled with more informaiton as this intial server relase progressses."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Mod Info",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Expansion is used for basebuilding and Territories."
+                },
+                {
+                    "DescriptionText": "JunkYardDog allows you to salavage parts and gas from vehicles."
+                },
+                {
+                    "DescriptionText": "Flip Transports allows you to flip your vehicle over if you have a wrench"
+                },
+                {
+                    "DescriptionText": "For gear, we have: Mort'y Weapons, MVS Rewokred, Cl0uds Military Gear, Windstrider Gear, and MuchStuffPack."
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
+}

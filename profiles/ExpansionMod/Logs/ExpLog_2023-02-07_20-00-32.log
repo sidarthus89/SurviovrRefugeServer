@@ -1,0 +1,26 @@
+21:05:39 [VehicleCover] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4679.477051, 281.012329, 4703.204590>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080001F0E pos=<4681.840820, 281.053162, 4701.795410>)!
+21:05:49 [VehicleCarKey] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4681.665039, 281.012451, 4703.956543>) used the  ExpansionCarKey to unlock OffroadHatchback (id=CA1975AE274E7966FC205D813AC0ED6E pos=<4681.840820, 281.053070, 4701.795410>)
+21:07:30 [VehicleDeleted] OffroadHatchback (id=CA1975AE274E7966FC205D813AC0ED6E pos=<4681.840820, 281.053070, 4701.795410>)
+21:11:45 [VehicleCover] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4679.271484, 281.012451, 4703.215820>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080001F0E pos=<4681.840820, 281.053070, 4701.795410>)!
+21:12:53 [VehicleDeleted] OffroadHatchback (id=4C2133DD0A4DA0D7F5EEF6AB5405999B pos=<4681.840820, 281.053162, 4701.795410>)
+21:14:32 [VehicleCover] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4679.037598, 281.012451, 4702.511230>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080001F0E pos=<4681.840820, 281.053162, 4701.795410>)!
+21:16:02 [VehicleDeleted] OffroadHatchback (id=122960A6394AA22E706FA3A1CAC58E39 pos=<4681.840820, 281.053162, 4701.795410>)
+21:17:02 [Party] Player "Sidarthus89" (id=F6ba8Lb5rTfk7SPTvehszX71D171DjV-B9kT6vj9WHY=) joinded the party "Test" (id=10 ownerUID=F6ba8Lb5rTfk7SPTvehszX71D171DjV-B9kT6vj9WHY= ownerName=Sidarthus)
+21:17:29 [Party] Player "Sidarthus89" (id=F6ba8Lb5rTfk7SPTvehszX71D171DjV-B9kT6vj9WHY=) left the party "Test" (id=10 ownerUID=F6ba8Lb5rTfk7SPTvehszX71D171DjV-B9kT6vj9WHY= ownerName=Sidarthus)
+21:23:14 [Party] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) joinded the party "Scarred Reapers" (id=15 ownerUID=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8= ownerName=Mr. Tux)
+21:24:19 [VehicleCover] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4679.018555, 281.012451, 4703.191895>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080001F0E pos=<4681.840820, 281.053162, 4701.795410>)!
+21:25:53 [VehicleDeleted] OffroadHatchback (id=5A0F0F0750484DAEA209CDB3B169832F pos=<4681.840820, 281.053131, 4701.795410>)
+21:27:08 [VehicleCover] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4680.396484, 281.012451, 4703.836914>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080001F0E pos=<4681.840820, 281.053131, 4701.795410>)!
+21:28:35 [VehicleDeleted] OffroadHatchback (id=8B2B46DABD42F5AAFC6F86AC1D14B189 pos=<4681.840820, 281.053162, 4701.795410>)
+21:39:59 [Party] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) joinded the party "Scarred Reapers" (id=15 ownerUID=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8= ownerName=Mr. Tux)
+21:40:21 [SpawnSelection] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) spawned at <12915.700195, 4.400000, 9278.200195>
+21:52:36 [Party] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) left the party "Scarred Reapers" (id=15 ownerUID=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8= ownerName=Mr. Tux)
+21:53:15 [BaseRaiding] ExpansionWall6x3 (<4673.438965, 281.102417, 4706.399414>) Code set by player "Rando" (ID = "JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY=" at <4672.060547, 280.967407, 4706.599121>) and the code is 6656
+22:03:42 [BaseRaiding] ExpansionWall6x3 (<4677.326660, 281.101959, 4708.098145>) Code set by player "Rando" (ID = "JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY=" at <4676.972168, 281.351990, 4706.610352>) and the code is 6656
+22:13:44 [VehicleCover] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4680.540039, 281.012390, 4700.479980>) uncovered vehicle "OffroadHatchback" (GlobalID=80000000800000008000000080001F0E pos=<4681.840820, 281.053162, 4701.795410>)!
+22:13:50 [VehicleCarKey] Player "Rando" (id=JvvCHnGuyh_nfZYJHhwPEuqC4PLOVPMEAKGSXu_-8kY= pos=<4680.540039, 281.012390, 4700.479980>) used the  ExpansionCarKey to lock OffroadHatchback (id=8C8E994BAC40D5017F35449144DB6DB8 pos=<4681.840820, 281.053101, 4701.795410>)
+22:14:27 [Party] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) joinded the party "Scarred Reapers" (id=15 ownerUID=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8= ownerName=Mr. Tux)
+22:15:13 [VehicleDeleted] OffroadHatchback (id=8C8E994BAC40D5017F35449144DB6DB8 pos=<4681.840820, 281.053101, 4701.795410>)
+22:28:55 [Party] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) joinded the party "Scarred Reapers" (id=15 ownerUID=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8= ownerName=Mr. Tux)
+22:29:11 [SpawnSelection] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) spawned at <13052.900391, 7.100000, 9894.700195>
+23:59:15 [Party] Player "Mr. Tux" (id=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8=) left the party "Scarred Reapers" (id=15 ownerUID=3FCmlLdqs97wNYtgsvMTGavMyuZc44PrYyr2Gfkoti8= ownerName=Mr. Tux)

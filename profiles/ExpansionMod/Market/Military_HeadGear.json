@@ -1,0 +1,465 @@
+{
+    "m_Version": 12,
+    "DisplayName": "HEAD GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "pilotkacap",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militaryberet_chdkz",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 26,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "militaryberet_red",
+                "militaryberet_un",
+                "militaryberet_cdf",
+                "militaryberet_nz",
+				"WinterGear_Beret_CDF"
+            ]
+        },
+        {
+            "ClassName": "officerhat",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tankerhelmet",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"WinterGear_TankerHelmet"
+				]
+        },
+        {
+            "ClassName": "greathelm",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "zsh3pilothelmet",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "zsh3pilothelmet_green",
+                "zsh3pilothelmet_black"
+            ]
+        },
+        {
+            "ClassName": "gorkahelmetvisor",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gorkahelmet",
+            "MaxPriceThreshold": 480,
+            "MinPriceThreshold": 240,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "gorkahelmetvisor"
+            ],
+            "Variants": [
+                "gorkahelmet_black",
+				"WinterGear_GorkaHelmet"
+            ]
+        },
+        {
+            "ClassName": "ssh68helmet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WinterGear_BallisticHelmet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"ballistichelmet_un",
+                "ballistichelmet_black",
+                "ballistichelmet_green"
+            ]
+        },
+        {
+            "ClassName": "booniehat_blue",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "booniehat_navyblue",
+                "booniehat_orange",
+                "booniehat_red",
+                "booniehat_black",
+                "booniehat_tan",
+                "booniehat_olive",
+                "booniehat_dpm",
+                "booniehat_dubok",
+                "booniehat_flecktran",
+				"MVS_BoonieHat",
+                "MVS_BoonieHat_Snow",
+                "MVS_BoonieHat_Multicam",
+                "MVS_BoonieHat_Multicam_Tropic",
+                "MVS_BoonieHat_Multicam_Black",
+				"militarygear_booniehat_atacs",
+				"militarygear_booniehat_partizanm",
+				"militarygear_booniehat_duckhunter",
+				"militarygear_booniehat_multicam",
+				"militarygear_booniehat_splinter",
+				"militarygear_booniehat_splinter_dark",
+				"militarygear_booniehat_tiger",
+				"militarygear_booniehat_woodland",
+				"militarygear_booniehat_flt",
+				"militarygear_booniehat_dpm",
+				"militarygear_booniehat_mpat",
+				"militarygear_booniehat_skol",
+				"militarygear_booniehat_cadpat",
+				"militarygear_booniehat_tropic",
+				"militarygear_booniehat_yeger",
+				"militarygear_booniehat_partizan"
+            ]
+        },
+        {
+            "ClassName": "MVS_Cap_OD",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Cap_Tan",
+                "MVS_Cap_Black",
+                "MVS_Cap_Snow",
+                "MVS_Cap_ERDL",
+                "MVS_Cap_Multicam",
+                "MVS_Cap_Multicam_Tropic",
+                "MVS_Cap_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Helmet_01_Tan",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Helmet_01_Tan_Worn",
+                "MVS_Helmet_01_OD",
+                "MVS_Helmet_01_Black",
+                "MVS_Helmet_01_Snow",
+                "MVS_Helmet_01_ERDL",
+                "MVS_Helmet_01_Multicam",
+                "MVS_Helmet_01_Multicam_Tropic",
+                "MVS_Helmet_01_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Helmet_02_Tan",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Helmet_02_Tan_Worn",
+                "MVS_Helmet_02_OD",
+                "MVS_Helmet_02_Black",
+                "MVS_Helmet_02_Snow",
+                "MVS_Helmet_02_ERDL",
+                "MVS_Helmet_02_Multicam",
+                "MVS_Helmet_02_Multicam_Tropic",
+                "MVS_Helmet_02_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_OpsCore_Tan",
+            "MaxPriceThreshold": 2550,
+            "MinPriceThreshold": 1250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_OpsCore_OD",
+                "MVS_OpsCore_Black",
+                "MVS_OpsCore_Snow",
+                "MVS_OpsCore_ERDL",
+                "MVS_OpsCore_Multicam",
+                "MVS_OpsCore_Multicam_Tropic",
+                "MVS_OpsCore_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_ArmoredHelmet_Tan",
+            "MaxPriceThreshold": 4550,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_ArmoredHelmet_OD",
+                "MVS_ArmoredHelmet_Black",
+                "MVS_ArmoredHelmet_Snow",
+                "MVS_ArmoredHelmet_ERDL",
+                "MVS_ArmoredHelmet_Multicam",
+                "MVS_ArmoredHelmet_Multicam_Tropic",
+                "MVS_ArmoredHelmet_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Altyn_OD",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Altyn_Tan",
+                "MVS_Altyn_Black",
+                "MVS_Altyn_Visor_OD",
+                "MVS_Altyn_Visor_Tan",
+                "MVS_Altyn_Visor_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_6B47_Helmet_OD",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 1850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_6B47_Helmet_Tan",
+                "MVS_6B47_Helmet_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_WarriorHelmet_Tan",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_WarriorHelmet_OD",
+                "MVS_WarriorHelmet_Black",
+                "MVS_WarriorHelmet_Snow",
+                "MVS_WarriorHelmet_ERDL",
+                "MVS_WarriorHelmet_Multicam",
+                "MVS_WarriorHelmet_Multicam_Tropic",
+                "MVS_WarriorHelmet_Multicam_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_S10Respirator_OD",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_S10Respirator_Tan",
+                "MVS_S10Respirator_Black",
+                "MVS_S10Respirator_FS",
+                "MVS_S10Respirator_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_M50Respirator_OD",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_M50Respirator_Tan",
+                "MVS_M50Respirator_Black",
+                "MVS_M50Respirator_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_PMK2Respirator_Black",
+            "MaxPriceThreshold": 6500,
+            "MinPriceThreshold": 4850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_PMK2Respirator_Tan",
+                "MVS_PMK2Respirator_OD",
+                "MVS_PMK2Respirator_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_Shroud_OD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Shroud_Tan",
+                "MVS_Shroud_Black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Balaclava_Wraith",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Balaclava_OD",
+                "MVS_Balaclava_Tan",
+                "MVS_Balaclava_Black",
+				"WinterGear_Balaclava",
+				"WinterGear_BalaclavaSkull"
+            ]
+        },
+        {
+            "ClassName": "MVS_Facemask_OD",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Facemask_Tan",
+                "MVS_Facemask_Black",
+                "MVS_Facemask_Snow"
+            ]
+        },
+        {
+            "ClassName": "MVS_Comtacs_OD",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Comtacs_Tan",
+                "MVS_Comtacs_Black"
+            ]
+        },
+		{
+			"ClassName": "militarygear_tacticalhelmet_atacs",
+			"MaxPriceThreshold": 1600,
+			"MinPriceThreshold": 1600,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+			"Variants": [
+			"militarygear_tacticalhelmet_partizanm",
+			"militarygear_tacticalhelmet_duckhunter",
+			"militarygear_tacticalhelmet_multicam",
+			"militarygear_tacticalhelmet_splinter",
+			"militarygear_tacticalhelmet_splinter_dark",
+			"militarygear_tacticalhelmet_tiger",
+			"militarygear_tacticalhelmet_woodland",
+			"militarygear_tacticalhelmet_flt",
+			"militarygear_tacticalhelmet_dpm",
+			"militarygear_tacticalhelmet_mpat",
+			"militarygear_tacticalhelmet_skol",
+			"militarygear_tacticalhelmet_cadpat",
+			"militarygear_tacticalhelmet_tropic",
+			"militarygear_tacticalhelmet_yeger",
+			"militarygear_tacticalhelmet_partizan",
+			"expansionmich2001desert",
+			"mich2001helmet",
+			"WinterGear_TacticalHelmet"
+			]
+		}
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Consumables",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Drinks",
+        "Food",
+        "Fruit_And_Vegetables",
+        "Exchange"
+    ],
+    "Items": {}
+}

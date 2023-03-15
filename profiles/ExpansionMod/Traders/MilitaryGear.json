@@ -1,0 +1,27 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Military Gear",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "Ghillies",
+        "Military_Accessories",
+        "Military_Bags",
+        "Military_ChestGear",
+        "Military_EyeGear",
+        "Military_FaceGear",
+        "Military_FootGear",
+        "Military_Gloves",
+        "Military_HeadGear",
+        "Military_LegGear",
+        "Military_Vests",
+        "Exchange"
+    ],
+    "Items": {}
+}

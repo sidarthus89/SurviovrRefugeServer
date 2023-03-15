@@ -1,0 +1,110 @@
+{
+    "m_Version": 12,
+    "DisplayName": "FACE GEAR",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "surgicalmask",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nioshfacemask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hockeymask",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "weldingmask",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "Shemagh_Bandit_Green",
+			"MaxPriceThreshold": 250,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Shemagh_Bandit_Brown",
+				"Shemagh_Bandit_White",
+				"Shemagh_Bandit_Red"
+			]
+        },
+        {
+			"ClassName": "Shemagh_Scarf_Green",
+			"MaxPriceThreshold": 250,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Shemagh_Scarf_Brown",
+				"Shemagh_Scarf_White",
+				"Shemagh_Scarf_Red"
+			]
+        },		
+        {
+			"ClassName": "Shemagh_Facemask_Green",
+			"MaxPriceThreshold": 250,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Shemagh_Facemask_Brown",
+				"Shemagh_Facemask_White",
+				"Shemagh_Facemask_Red"
+			]
+        },		
+        {
+			"ClassName": "SkullMask",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

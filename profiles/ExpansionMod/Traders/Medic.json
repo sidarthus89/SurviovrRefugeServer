@@ -1,0 +1,19 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Medic",
+    "MinRequiredReputation": -9999,
+    "MaxRequiredReputation": 9999,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansionsilverbar",
+        "ExpansionBanknoteHryvnia"
+    ],
+    "Categories": [
+        "MedicalSupplies",
+        "Medications",
+        "NBC_Gear",
+        "Exchange"
+    ],
+    "Items": {}
+}

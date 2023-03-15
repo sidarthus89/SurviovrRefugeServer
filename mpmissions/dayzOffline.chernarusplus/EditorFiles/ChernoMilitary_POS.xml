@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Mil_Airfield_HQ" pos="7325.117676 29.904827 3080.661621" rpy="-0.000000 0.000000 134.999741" a="-44.9997"/>
+	<group name="bldr_misc_antenna" pos="7324.426270 37.356564 3081.120117" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Mil_Fortified_Nest_Small" pos="7323.442383 33.934097 3074.223145" rpy="-0.000000 -0.000000 44.354378" a="45.6456"/>
+	<group name="Land_Misc_Scaffolding" pos="7329.979980 26.480591 3091.593018" rpy="0.000000 0.000000 134.704758" a="-44.7048"/>
+	<group name="Land_Container_1Mo" pos="7230.182129 31.429922 3072.349609" rpy="2.499999 0.000000 -93.056984" a="-176.943"/>
+	<group name="bldr_misc_antenna" pos="7174.061035 36.244083 3027.739502" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Guardhouse" pos="7195.569824 32.628601 3026.959961" rpy="-1.800000 0.000000 161.999954" a="-72"/>
+	<group name="Land_Mil_Tent_Big3" pos="7313.903320 24.967203 3104.813477" rpy="0.000000 0.000000 -45.000000" a="135"/>
+	<group name="Land_Mil_Barracks_Round" pos="7234.821289 29.915026 3026.225342" rpy="8.921644 5.687335 -86.216988" a="176.217"/>
+	<group name="Land_Mil_Guardhouse2" pos="7204.849121 7.961802 2956.154297" rpy="-0.000000 -0.000000 75.968643" a="14.0314"/>
+	<group name="Land_Mil_Fortified_Nest_Watchtower" pos="7207.088379 8.753296 2967.153320" rpy="-0.000000 -0.000000 71.999947" a="18.0001"/>
+	<group name="Land_Mil_Barracks_Round" pos="7294.479980 24.663239 3106.929932" rpy="0.000000 -4.999998 -45.000000" a="135"/>
+	<group name="Land_Mil_CamoNet_Roof_east" pos="7303.500000 25.874016 3099.217773" rpy="-0.000000 -0.000000 44.999992" a="45"/>
+	<group name="Land_Mil_Barracks2" pos="7316.735840 22.158079 2992.041504" rpy="-0.000000 0.000000 134.999863" a="-44.9999"/>
+	<group name="Land_Mil_Tower_Small" pos="7283.931152 25.093124 3116.229736" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Mil_Tower_Small" pos="7316.670410 27.356001 3114.344971" rpy="-0.000000 -0.000000 28.481270" a="61.5187"/>
+	<group name="StaticObj_Mil_HBarrier_1m" pos="7209.398438 7.372135 2957.357178" rpy="-0.000000 0.000000 -106.318451" a="-163.682"/>
+	<group name="Land_Container_1Mo" pos="7229.858887 31.449444 3053.594482" rpy="2.499999 0.000000 152.143555" a="-62.1436"/>
+	<group name="Land_Mil_Tent_Big2_3" pos="7180.556152 33.835064 3025.678467" rpy="-1.606423 -1.724758 -17.999985" a="108"/>
+</map>
